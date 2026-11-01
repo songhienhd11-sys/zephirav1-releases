@@ -1,10 +1,10 @@
 {
-    "version":  "v1.20",
-    "buildNumber":  20,
-    "versionBadge":  "v1.20 â€¢ Build 20",
-    "releaseDate":  "2026-11-02T02:17:09+07:00",
-    "sha256":  "1bfeb05b16709dafa7cb5ae9440e5c6502db8735cdda5f01b0ddf1606fdd4e05",
+    "version":  "v1.21",
+    "buildNumber":  21,
+    "versionBadge":  "v1.21 â€¢ Build 21",
+    "releaseDate":  "2026-11-02T02:25:16+07:00",
+    "sha256":  "e0d571f47f51256581c0c9f521870b0db77f202a90f96311a461fc9b78348b27",
     "sizeBytes":  1661952,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "Fix giat hom do V khi ban hang, ban sach rac \u0026 mau khac loai, dung Core Xanh khi map xa \u003e= 2 hop"
+    "notes":  "v1.21 Build 21: VeChai \u003e80% ve ban do / \u003e60% xep do, Cai dat chung Server All-Tab, Mua 0 Stamina, Day tai CPU sang RAM (1GB 3D Cache + 4GB V8 Heap + Dual Xeon Group Balance)"
 }
