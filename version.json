@@ -1,10 +1,10 @@
 {
-    "version":  "v1.21",
-    "buildNumber":  21,
-    "versionBadge":  "v1.21 â€¢ Build 21",
-    "releaseDate":  "2026-11-02T02:25:16+07:00",
-    "sha256":  "e0d571f47f51256581c0c9f521870b0db77f202a90f96311a461fc9b78348b27",
-    "sizeBytes":  1661952,
+    "version":  "v1.22",
+    "buildNumber":  22,
+    "versionBadge":  "v1.22 â€¢ Build 22",
+    "releaseDate":  "2026-11-02T03:01:26+07:00",
+    "sha256":  "a4a60905d5cbf307405dacd7c6e6eba7b00b16a30868424fc195c6d9130a95d1",
+    "sizeBytes":  1667584,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.21 Build 21: VeChai \u003e80% ve ban do / \u003e60% xep do, Cai dat chung Server All-Tab, Mua 0 Stamina, Day tai CPU sang RAM (1GB 3D Cache + 4GB V8 Heap + Dual Xeon Group Balance)"
+    "notes":  "v1.22 Build 22: Day tai 3D WebGL/Canvas sang VGA (GTX/RTX/iGPU) \u0026 RAM tu dong theo cau hinh may (8GB..128GB), giam dot CPU JS Map/DOM/Scene, phan bo deu CPU 40 luong Dual Xeon"
 }
