@@ -1,10 +1,10 @@
 {
-    "version":  "v1.36",
-    "buildNumber":  36,
-    "versionBadge":  "v1.36 â€¢ Build 36",
-    "releaseDate":  "2026-11-03T02:34:07+07:00",
-    "sha256":  "ee4a89936d7fb617b0895b3f7d79b145548093368a9394e46a37f57f429b0ee6",
+    "version":  "v1.37",
+    "buildNumber":  37,
+    "versionBadge":  "v1.37 â€¢ Build 37",
+    "releaseDate":  "2026-11-03T02:45:49+07:00",
+    "sha256":  "df6330667722cdf5e7ae05796c896293ee6bf410e0cec928ab63a2e2d8e7e2b8",
     "sizeBytes":  1702912,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.36 Build 36: Bam phim P + check DOM bat Auto In-Game khi toi bai, giam sat bat lai Auto lien tuc cho moi Tab danh dau tren UIX (chong bao ao nut an .ah-q-go 0x0), chong tu tat Auto khi nguoi dung bat tay, va dong sach ban do .gm-guide bang chuoi su kien chuot tren .gm-close khi tim duong den NPC tap hoa"
+    "notes":  "v1.37 Build 37: Dong bo Version Badge v1.37 Build 37, bam phim P + check DOM bat Auto In-Game khi toi bai, giam sat bat lai Auto lien tuc cho moi Tab danh dau tren UIX (chong bao ao nut an .ah-q-go 0x0), chong tu tat Auto khi nguoi dung bat tay, va dong sach ban do .gm-guide bang chuoi su kien chuot tren .gm-close khi tim duong den NPC tap hoa"
 }
