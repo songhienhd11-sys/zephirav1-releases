@@ -2,9 +2,9 @@
     "version":  "v1.30",
     "buildNumber":  30,
     "versionBadge":  "v1.30 â€¢ Build 30",
-    "releaseDate":  "2026-11-02T17:35:51+07:00",
-    "sha256":  "ab4349bd71d908711871ee54e71363b1bcff33d8da1876d032df177d4029f931",
-    "sizeBytes":  1684992,
+    "releaseDate":  "2026-11-02T17:40:51+07:00",
+    "sha256":  "07fd8e2f2b0771e6e0670a6fac46a83206d757496dc6b58fb71111d40181599f",
+    "sizeBytes":  1687040,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.30 Build 30: Kiem thu that In-Game 100% logic To Doi nghiem ngat (Chu PT chi moi dung danh sach \u0026 tu kick nguoi la giu nguyen thanh vien dung; Thanh vien chi nhan loi moi dung Chu PT, tu choi nguoi la \u0026 tu roi nhom trong 1 nhip 100ms neu sai Chu PT), tu dong lay ten nhan vat that trong game (GIALINHNH) thay vi config cu, giu nguyen vai tro Chu PT khi dong bo cai dat, va Ve Chai ngam 100% khi An tab Man hinh thuong"
+    "notes":  "v1.30 Build 30: Giai nen UIX truc tiep vao thu muc auto goc (giu nguyen 100% data cu PTM_PWeb_Data), kiem thu that In-Game 100% logic To Doi nghiem ngat (Chu PT chi moi dung danh sach \u0026 tu kick nguoi la; Thanh vien chi nhan loi moi dung Chu PT \u0026 tu roi nhom trong 1 nhip 100ms neu sai Chu PT), va Ve Chai ngam 100% khi An tab Man hinh thuong"
 }
