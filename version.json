@@ -1,10 +1,10 @@
 {
-    "version":  "v1.32",
-    "buildNumber":  32,
-    "versionBadge":  "v1.32 â€¢ Build 32",
-    "releaseDate":  "2026-11-02T19:17:04+07:00",
-    "sha256":  "f803e66605f0d4bd0377acb469f03e580c1c99c50e2e5b7189d0bd710354000f",
-    "sizeBytes":  1689600,
+    "version":  "v1.34",
+    "buildNumber":  34,
+    "versionBadge":  "v1.34 â€¢ Build 34",
+    "releaseDate":  "2026-11-02T21:10:38+07:00",
+    "sha256":  "a692557f854b8ceb125646908e15375303e5b448874a687beb4f2a48be290e62",
+    "sizeBytes":  1694208,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.23 Build 23: Toi uu sau CPU 10 tab (fix isForegroundTab ha 9 tab nen xuong 8 FPS, giam 70% tai GPU/Renderer CPU), giam sat Auto-Hunt lien tuc khi danh dau tab voi 2 nut tam giac .ah-launch-pp \u0026 button.ah-q-btn.ah-q-go chong che khuat (0 tap mu), xu ly muot Ve Chai + Taskbar PiP, va bao chinh xac Lv thuc te tu .hud-win[data-win=status]"
+    "notes":  "v1.34 Build 34: Quet chinh xac so vang thuc te tu DOM (.hud-gold-drop), cot tieu de tren cung hien thi [▲ +Tong vang N tab kiem duoc trong ngay], cac dong tab ben duoi hien thi gia tri vang tang that (+N0 / 0), tu dong bat dau dem khi bat Auto va reset qua 0h00 ngay moi, mo rong cot va cho phep keo dan do rong cac cot tuy y"
 }
