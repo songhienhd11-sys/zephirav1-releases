@@ -1,10 +1,10 @@
 {
-    "version":  "v1.29",
-    "buildNumber":  29,
-    "versionBadge":  "v1.29 â€¢ Build 29",
-    "releaseDate":  "2026-11-02T16:46:13+07:00",
-    "sha256":  "ce78b716985a8a1fceba5c697782f4eb547a2e1764eeb51a58e17e6e360ad3fe",
-    "sizeBytes":  1684480,
+    "version":  "v1.30",
+    "buildNumber":  30,
+    "versionBadge":  "v1.30 â€¢ Build 30",
+    "releaseDate":  "2026-11-02T17:35:51+07:00",
+    "sha256":  "ab4349bd71d908711871ee54e71363b1bcff33d8da1876d032df177d4029f931",
+    "sizeBytes":  1684992,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.29 Build 29: Chay muot Ve Chai 100% ngay ca khi Tab o che do Man hinh thuong (Normal) va bi An (IsHiddenTab / Che do nghi pt-afk / thu nho), chong phan manh CPU don \u0026 dual CPU (0xFFFFFFFFFF), va To doi Nghiem ngat (Chu PT \u0026 Thanh vien)"
+    "notes":  "v1.30 Build 30: Kiem thu that In-Game 100% logic To Doi nghiem ngat (Chu PT chi moi dung danh sach \u0026 tu kick nguoi la giu nguyen thanh vien dung; Thanh vien chi nhan loi moi dung Chu PT, tu choi nguoi la \u0026 tu roi nhom trong 1 nhip 100ms neu sai Chu PT), tu dong lay ten nhan vat that trong game (GIALINHNH) thay vi config cu, giu nguyen vai tro Chu PT khi dong bo cai dat, va Ve Chai ngam 100% khi An tab Man hinh thuong"
 }
