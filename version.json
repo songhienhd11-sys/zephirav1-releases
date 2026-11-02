@@ -2,9 +2,9 @@
     "version":  "v1.23",
     "buildNumber":  23,
     "versionBadge":  "v1.23 â€¢ Build 23",
-    "releaseDate":  "2026-11-02T14:01:06+07:00",
-    "sha256":  "56244f2b7939afac71f235136057667a36c8b04473a452528b827647a4c70c58",
-    "sizeBytes":  1676800,
+    "releaseDate":  "2026-11-02T14:54:52+07:00",
+    "sha256":  "7b72aefe3abbaa40f08ae9eaa9f74397e1833a24631c49de32743de1ad2bcfac",
+    "sizeBytes":  1682944,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.23 Build 23: Toi uu sau CPU 10 tab (fix isForegroundTab ha 9 tab nen xuong 8 FPS, giam 70% tai GPU/Renderer CPU), giam sat Auto-Hunt lien tuc khi danh dau tab voi 2 nut tam giac .ah-launch-pp \u0026 button.ah-q-btn.ah-q-go chong che khuat (0 tap mu), xu ly muot Ve Chai + Taskbar PiP, va bao chinh xac Lv thuc te tu .hud-win[data-win=status]"
+    "notes":  "v1.23 Build 23: Go bo hoan toan phan manh CPU core (mo 100% full luong CPU 0xFFFFFFFFFF + Priority Normal cho moi Tab tren ca may Dual CPU nhieu loi Hz thap va may Don CPU it loi Hz cao, chong day CPU don len 100% gay giat/lag/giam toc danh), giu nguyen 100% do muot/DPS/nhat do that, To doi nghiem ngat (Chu PT tu kick nguoi la / Thanh vien tu out neu sai Chu PT), giam sat Auto-Hunt lien tuc va bao dung Lv thuc te"
 }
