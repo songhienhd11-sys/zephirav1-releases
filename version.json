@@ -1,10 +1,10 @@
 {
-    "version":  "v1.35",
-    "buildNumber":  35,
-    "versionBadge":  "v1.35 â€¢ Build 35",
-    "releaseDate":  "2026-11-03T00:31:56+07:00",
-    "sha256":  "6bdc5c09eb205b6da4a625f724140d496c21d46e63f73e8583711567a3605b50",
-    "sizeBytes":  1020928,
+    "version":  "v1.36",
+    "buildNumber":  36,
+    "versionBadge":  "v1.36 â€¢ Build 36",
+    "releaseDate":  "2026-11-03T02:34:07+07:00",
+    "sha256":  "ee4a89936d7fb617b0895b3f7d79b145548093368a9394e46a37f57f429b0ee6",
+    "sizeBytes":  1702912,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.35 Build 35 full audit \u0026 critical fixes"
+    "notes":  "v1.36 Build 36: Bam phim P + check DOM bat Auto In-Game khi toi bai, giam sat bat lai Auto lien tuc cho moi Tab danh dau tren UIX (chong bao ao nut an .ah-q-go 0x0), chong tu tat Auto khi nguoi dung bat tay, va dong sach ban do .gm-guide bang chuoi su kien chuot tren .gm-close khi tim duong den NPC tap hoa"
 }
