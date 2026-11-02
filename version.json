@@ -1,10 +1,10 @@
 {
-    "version":  "v1.30",
-    "buildNumber":  30,
-    "versionBadge":  "v1.30 â€¢ Build 30",
-    "releaseDate":  "2026-11-02T17:40:51+07:00",
-    "sha256":  "07fd8e2f2b0771e6e0670a6fac46a83206d757496dc6b58fb71111d40181599f",
-    "sizeBytes":  1687040,
+    "version":  "v1.31",
+    "buildNumber":  31,
+    "versionBadge":  "v1.31 â€¢ Build 31",
+    "releaseDate":  "2026-11-02T18:39:43+07:00",
+    "sha256":  "417246fa687f491faf23704cf6c522afb38054c4468d8aaaa59d7df354d05748",
+    "sizeBytes":  1686528,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.30 Build 30: Giai nen UIX truc tiep vao thu muc auto goc (giu nguyen 100% data cu PTM_PWeb_Data), kiem thu that In-Game 100% logic To Doi nghiem ngat (Chu PT chi moi dung danh sach \u0026 tu kick nguoi la; Thanh vien chi nhan loi moi dung Chu PT \u0026 tu roi nhom trong 1 nhip 100ms neu sai Chu PT), va Ve Chai ngam 100% khi An tab Man hinh thuong"
+    "notes":  "v1.31 Build 31: Chuan hoa Nhat ky Hoat dong chuyen nghiep (loc bo log rac BAG_AUTO_SORT_70PCT, VECHAI_QUEUE_WAIT, TIMED_FARM_TO_TOWN_SELL, tat ghi file activity_live.log), rut gon thong bao Ve Chai \u0026 Trang thai Auto ro rang, don sach file log/icon cu tren o dia, va giai nen Setup 1-Click truc tiep vao thu muc Auto goc giu nguyen 100% du lieu PTM_PWeb_Data."
 }
