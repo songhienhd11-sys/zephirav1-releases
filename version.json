@@ -1,10 +1,10 @@
 {
-    "version":  "v1.40",
-    "buildNumber":  40,
-    "versionBadge":  "v1.40 â€¢ Build 40",
-    "releaseDate":  "2026-11-03T17:20:09+07:00",
-    "sha256":  "e83e60bd36a806bdf6e4e14ef83b1e9e2d81c93078303a3ea3547ffbd3b1c5d9",
-    "sizeBytes":  1718272,
+    "version":  "v1.41",
+    "buildNumber":  41,
+    "versionBadge":  "v1.41 â€¢ Build 41",
+    "releaseDate":  "2026-11-03T22:25:48+07:00",
+    "sha256":  "33e7c5c66841232ff02f619b5968e80c3c82f55c3fe8139ad75b04536a823e01",
+    "sizeBytes":  1733120,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.40 Build 40: Fix triet de 100% loi hoi ID/Pass Proxy khi mo Tab moi tren moi PC (Bootstrap data: URL + CDP Fetch.continueWithAuth truoc khi tai trang) + Fix BuildNumber 40 de Auto-Update tren PC khac nhan ban cap nhat ngay + Chan Telemetry BlackBox (/api/telemetry/crash, win-inventory, jsHeapSizeLimit 4096MB) \u0026 Co lap pt.device theo tung Acc/PC"
+    "notes":  "v1.41 Build 41: Tai cau truc Master Plan \u0026 8 Sub-Plans doc lap (Single-Owner Lease ILeaseToken), khoa tang JS thu dong (__ptmActivePhase), Clean Handover Protocol don sach Modal CDP va chong xung dot cheo giua cac Phase"
 }
