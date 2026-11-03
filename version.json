@@ -1,10 +1,10 @@
 {
-    "version":  "v1.37",
-    "buildNumber":  37,
-    "versionBadge":  "v1.37 â€¢ Build 37",
-    "releaseDate":  "2026-11-03T02:45:49+07:00",
-    "sha256":  "df6330667722cdf5e7ae05796c896293ee6bf410e0cec928ab63a2e2d8e7e2b8",
-    "sizeBytes":  1702912,
+    "version":  "v1.38",
+    "buildNumber":  38,
+    "versionBadge":  "v1.38 â€¢ Build 38",
+    "releaseDate":  "2026-11-03T10:35:29+07:00",
+    "sha256":  "755333b42b0db5f7b7b2a6e22dbd50f4944be0977ff137656f3d78e675188260",
+    "sizeBytes":  1707520,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.37 Build 37: Dong bo Version Badge v1.37 Build 37, bam phim P + check DOM bat Auto In-Game khi toi bai, giam sat bat lai Auto lien tuc cho moi Tab danh dau tren UIX (chong bao ao nut an .ah-q-go 0x0), chong tu tat Auto khi nguoi dung bat tay, va dong sach ban do .gm-guide bang chuoi su kien chuot tren .gm-close khi tim duong den NPC tap hoa"
+    "notes":  "v1.38 Build 38: Fix triet de loi quai chet luu hinh anh/xac tren map (bat dissolve:true, thu nho scale=0 + an mesh sau 1.4s die animation, don sach mesh mo coi ch.poseOf trong THREE.Scene va khong goi monstersMap.delete lam mat tham chieu PWeb) \u0026 Fix triet de loi di nham map trung gian (kiem tra dung targetStage truoc khi dung Auto-Hunt, khong ghi de SavedFarmStage khi di ngang map quai khac, bo click mu bossRows[0]/resList[0] tren ban do M)"
 }
