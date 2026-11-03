@@ -1,10 +1,10 @@
 {
     "version":  "v1.38",
-    "buildNumber":  38,
-    "versionBadge":  "v1.38 â€¢ Build 38",
-    "releaseDate":  "2026-11-03T10:35:29+07:00",
-    "sha256":  "755333b42b0db5f7b7b2a6e22dbd50f4944be0977ff137656f3d78e675188260",
-    "sizeBytes":  1707520,
+    "buildNumber":  1,
+    "versionBadge":  "v1.38 â€¢ Build 1",
+    "releaseDate":  "2026-11-03T13:19:35+07:00",
+    "sha256":  "68a13842c8886064f5e0c66a1ad7fdb8883d2dd6c7785a969dfdb1715861fe67",
+    "sizeBytes":  1708032,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.38 Build 38: Fix triet de loi quai chet luu hinh anh/xac tren map (bat dissolve:true, thu nho scale=0 + an mesh sau 1.4s die animation, don sach mesh mo coi ch.poseOf trong THREE.Scene va khong goi monstersMap.delete lam mat tham chieu PWeb) \u0026 Fix triet de loi di nham map trung gian (kiem tra dung targetStage truoc khi dung Auto-Hunt, khong ghi de SavedFarmStage khi di ngang map quai khac, bo click mu bossRows[0]/resList[0] tren ban do M)"
+    "notes":  "v1.38 Build 1: Fix severe lag (dissolve=false, remove 30K-node sceneRef.children sweep, 60 FPS unthrottled, stop OS CPU affinity pinning) \u0026 fix BI108 Blue Teleport Core after town selling."
 }
