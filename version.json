@@ -1,10 +1,10 @@
 {
-    "version":  "v1.41",
-    "buildNumber":  41,
-    "versionBadge":  "v1.41 â€¢ Build 41",
-    "releaseDate":  "2026-11-03T22:25:48+07:00",
-    "sha256":  "33e7c5c66841232ff02f619b5968e80c3c82f55c3fe8139ad75b04536a823e01",
-    "sizeBytes":  1733120,
+    "version":  "v1.42",
+    "buildNumber":  42,
+    "versionBadge":  "v1.42 â€¢ Build 42",
+    "releaseDate":  "2026-11-03T23:39:20+07:00",
+    "sha256":  "29bc7f9a4e60205c127af1502157a6979d8e9b3f9aa269a2e0d11bebf9fe9cd4",
+    "sizeBytes":  1734144,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.41 Build 41: Tai cau truc Master Plan \u0026 8 Sub-Plans doc lap (Single-Owner Lease ILeaseToken), khoa tang JS thu dong (__ptmActivePhase), Clean Handover Protocol don sach Modal CDP va chong xung dot cheo giua cac Phase"
+    "notes":  "v1.42 Build 42: Fix di bo 2 map sat vach Navisko (de-1 Vung Dat Lang Quen \u0026 de-3 Chien Truong Co Dai chay bo 100%, Oc Dao de-2 dung Core), tich chon Navisko chi dung EC102 (khong nhay sang Pillai/Ricarten), dat mua Stamina = 0 / Core = 0 luu dung 0 binh, va giu nguyen 100% Proxy khi nang cap."
 }
