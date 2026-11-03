@@ -1,10 +1,10 @@
 {
-    "version":  "v1.38",
+    "version":  "v1.39",
     "buildNumber":  1,
-    "versionBadge":  "v1.38 â€¢ Build 1",
-    "releaseDate":  "2026-11-03T13:57:03+07:00",
-    "sha256":  "682144ba9507afd3dfee10ea4eba5ed6e6a7c386f299f9f84b57c3a19a6f2803",
-    "sizeBytes":  1710080,
+    "versionBadge":  "v1.39 â€¢ Build 1",
+    "releaseDate":  "2026-11-03T16:47:38+07:00",
+    "sha256":  "4b8fb7a408b83a3e1c7fd94e30d49adc182b96c6cd71d26d086a9840aff2a7f0",
+    "sizeBytes":  1711104,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.38 Build 1: Victory-audited zero-lag fix (dissolve=false auto-normalized in localStorage, zero sceneRef.remove, 60 FPS unthrottled, OS CPU affinity free) \u0026 full BI108 Blue Teleport Core fix."
+    "notes":  "v1.39 Build 1: Tu dong xac thuc Proxy ID/Pass truc tiep qua giao thuc CDP (Fetch.authRequired -\u003e Fetch.continueWithAuth) tuong thich Chrome 137+/156+ khong can extension, tu dong tat popup hoi ID/Pass Proxy, va ho tro Login muot khi thu nho/an cua so"
 }
