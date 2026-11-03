@@ -2,9 +2,9 @@
     "version":  "v1.38",
     "buildNumber":  1,
     "versionBadge":  "v1.38 â€¢ Build 1",
-    "releaseDate":  "2026-11-03T13:19:35+07:00",
-    "sha256":  "68a13842c8886064f5e0c66a1ad7fdb8883d2dd6c7785a969dfdb1715861fe67",
-    "sizeBytes":  1708032,
+    "releaseDate":  "2026-11-03T13:57:03+07:00",
+    "sha256":  "682144ba9507afd3dfee10ea4eba5ed6e6a7c386f299f9f84b57c3a19a6f2803",
+    "sizeBytes":  1710080,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.38 Build 1: Fix severe lag (dissolve=false, remove 30K-node sceneRef.children sweep, 60 FPS unthrottled, stop OS CPU affinity pinning) \u0026 fix BI108 Blue Teleport Core after town selling."
+    "notes":  "v1.38 Build 1: Victory-audited zero-lag fix (dissolve=false auto-normalized in localStorage, zero sceneRef.remove, 60 FPS unthrottled, OS CPU affinity free) \u0026 full BI108 Blue Teleport Core fix."
 }
