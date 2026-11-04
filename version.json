@@ -1,10 +1,10 @@
 {
-    "version":  "v1.54",
-    "buildNumber":  54,
-    "versionBadge":  "v1.54 â€¢ Build 54",
-    "releaseDate":  "2026-11-05T02:09:46+07:00",
-    "sha256":  "acadabdf62c5d2cd8374773b9e8a943d4489c91e3ef3ab29a3b08365f2475026",
-    "sizeBytes":  1784832,
+    "version":  "v1.55",
+    "buildNumber":  55,
+    "versionBadge":  "v1.55 â€¢ Build 55",
+    "releaseDate":  "2026-11-05T03:01:17+07:00",
+    "sha256":  "02a02a488e5e520f081fa6bb6321de43a12d501a75bb93e77e4f8dc819b7fc5b",
+    "sizeBytes":  1787904,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.54 Build 54: (1) Fix vao Map Eve \u0026 Ban do Tap Hoa: Uu tien bam truc tiep cham xanh NPC (.gm-mark.gm-npc) tren ban do M de he thong tu tim duong chinh xac va mo bang NPC ngay khi toi noi (khong do toa do xung quanh hay dung cho); (2) Fix chon kenh Lv Map Eve khi thu nho cua so (auto-fit .tcw-panel/.tcw-list + PointerEvent); (3) Fix them Proxy bi tab trang tinh khong ket noi duoc game (dong bo CurrentPid chong ngat WebSocket giua chung + doi Fetch.enable xac nhan truoc khi dieu huong)."
+    "notes":  "v1.50 Build 50: Co che Don Gold da tang Core: (1) Co Core thanh dich -\u003e bay thang; (2) Khong co Core thanh dich nhung co Core thanh khac -\u003e bay qua thanh bat ky do mua Core thanh dich roi bay qua; (3) Khong co Core nao -\u003e mua Core Xanh (BI108) bay sang map ben canh thanh dich (forever-fall-01/fore-1/de-1) roi chay bo ve vi tri Don Gold."
 }
