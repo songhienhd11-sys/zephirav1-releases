@@ -1,10 +1,10 @@
 {
-    "version":  "v1.50",
-    "buildNumber":  50,
-    "versionBadge":  "v1.50 â€¢ Build 50",
-    "releaseDate":  "2026-11-04T22:29:23+07:00",
-    "sha256":  "b41ac01fcb723f55b64cb231412ecfc590327eaf1203b4c6ac39dc0d44358d7d",
-    "sizeBytes":  1759744,
+    "version":  "v1.53",
+    "buildNumber":  53,
+    "versionBadge":  "v1.53 â€¢ Build 53",
+    "releaseDate":  "2026-11-05T01:16:24+07:00",
+    "sha256":  "affa0342d3d76d685e319f10891740211079f70f87f44bee681544ee78fa5f05",
+    "sizeBytes":  1779200,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.50 Build 50: Co che Don Gold da tang Core: (1) Co Core thanh dich -\u003e bay thang; (2) Khong co Core thanh dich nhung co Core thanh khac -\u003e bay qua thanh bat ky do mua Core thanh dich roi bay qua; (3) Khong co Core nao -\u003e mua Core Xanh (BI108) bay sang map ben canh thanh dich (forever-fall-01/fore-1/de-1) roi chay bo ve vi tri Don Gold."
+    "notes":  "v1.53 Build 53: (1) Them nhanh [Map Eve] + tuy chon kenh Lv (Lv 1+ .. Lv 55+) canh [Den diem farm] tren UIX: khoa chi mua Core Ricarten (EC101), luu toa do farm trong Map Eve (Torre Sem Fim 4o Andar), ve chai xong tele ve Ricarten ban hang roi tu chay vao NPC Guardiao dos Canais chon dung kenh Lv; (2) Sua loi them Proxy mat ket noi / khong chay duoc game (pre-fetch Proxy Auth 0ms, cho phep thu lai xac thuc nhieu lan va tu chuyen huong tab data: sang pweb.world)."
 }
