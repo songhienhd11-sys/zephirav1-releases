@@ -1,10 +1,10 @@
 {
-    "version":  "v1.53",
-    "buildNumber":  53,
-    "versionBadge":  "v1.53 â€¢ Build 53",
-    "releaseDate":  "2026-11-05T01:16:24+07:00",
-    "sha256":  "affa0342d3d76d685e319f10891740211079f70f87f44bee681544ee78fa5f05",
-    "sizeBytes":  1779200,
+    "version":  "v1.54",
+    "buildNumber":  54,
+    "versionBadge":  "v1.54 â€¢ Build 54",
+    "releaseDate":  "2026-11-05T02:09:46+07:00",
+    "sha256":  "acadabdf62c5d2cd8374773b9e8a943d4489c91e3ef3ab29a3b08365f2475026",
+    "sizeBytes":  1784832,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.53 Build 53: (1) Them nhanh [Map Eve] + tuy chon kenh Lv (Lv 1+ .. Lv 55+) canh [Den diem farm] tren UIX: khoa chi mua Core Ricarten (EC101), luu toa do farm trong Map Eve (Torre Sem Fim 4o Andar), ve chai xong tele ve Ricarten ban hang roi tu chay vao NPC Guardiao dos Canais chon dung kenh Lv; (2) Sua loi them Proxy mat ket noi / khong chay duoc game (pre-fetch Proxy Auth 0ms, cho phep thu lai xac thuc nhieu lan va tu chuyen huong tab data: sang pweb.world)."
+    "notes":  "v1.54 Build 54: (1) Fix vao Map Eve \u0026 Ban do Tap Hoa: Uu tien bam truc tiep cham xanh NPC (.gm-mark.gm-npc) tren ban do M de he thong tu tim duong chinh xac va mo bang NPC ngay khi toi noi (khong do toa do xung quanh hay dung cho); (2) Fix chon kenh Lv Map Eve khi thu nho cua so (auto-fit .tcw-panel/.tcw-list + PointerEvent); (3) Fix them Proxy bi tab trang tinh khong ket noi duoc game (dong bo CurrentPid chong ngat WebSocket giua chung + doi Fetch.enable xac nhan truoc khi dieu huong)."
 }
