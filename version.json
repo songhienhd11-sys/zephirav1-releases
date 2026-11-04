@@ -1,10 +1,10 @@
 {
-    "version":  "v1.43",
-    "buildNumber":  43,
-    "versionBadge":  "v1.43 â€¢ Build 43",
-    "releaseDate":  "2026-11-04T01:49:45+07:00",
-    "sha256":  "ab4c79fb590e303a7b81e1c4040de6861540e58aebc92a1e8a94f5e48f53eeaa",
+    "version":  "v1.44",
+    "buildNumber":  44,
+    "versionBadge":  "v1.44 â€¢ Build 44",
+    "releaseDate":  "2026-11-04T11:42:28+07:00",
+    "sha256":  "11b490f3c9e5881d45babf4f6ca9a29681aee47aab45b661bffbf2dfbb96d708",
     "sizeBytes":  1734656,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.43 Build 43: Fix dut diem chay bo tu bai sat vach (fore-1, de-1, de-3, forever-fall-01) ve thanh ban do khong dung Town Core nhay sang thanh khac, fix chuyen ban do M sang Thi tran (Ricarten/Navisko/Pillai) qua anchorBossRow + Enter keydown khong dong nham ban do, va giu nguyen 100% Proxy khi nang cap."
+    "notes":  "v1.44 Build 44: Tieu de cot Vang hien thi tong gia tri Vang that (chinh xac den tung don vi) cua tat ca cac Tab dang Online cong lai, kem fix di bo 100% tu bai sat vach ve thanh va giu nguyen 100% Proxy khi nang cap."
 }
