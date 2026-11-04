@@ -1,10 +1,10 @@
 {
-    "version":  "v1.44",
-    "buildNumber":  44,
-    "versionBadge":  "v1.44 â€¢ Build 44",
-    "releaseDate":  "2026-11-04T11:42:28+07:00",
-    "sha256":  "11b490f3c9e5881d45babf4f6ca9a29681aee47aab45b661bffbf2dfbb96d708",
-    "sizeBytes":  1734656,
+    "version":  "v1.48",
+    "buildNumber":  48,
+    "versionBadge":  "v1.48 â€¢ Build 48",
+    "releaseDate":  "2026-11-04T18:55:29+07:00",
+    "sha256":  "a84bf76b85cacb8e97f36c3512c8945aaed98af74254fa743a396b7c32564793",
+    "sizeBytes":  1753600,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.44 Build 44: Tieu de cot Vang hien thi tong gia tri Vang that (chinh xac den tung don vi) cua tat ca cac Tab dang Online cong lai, kem fix di bo 100% tu bai sat vach ve thanh va giu nguyen 100% Proxy khi nang cap."
+    "notes":  "v1.48 Build 48: Chuan hoa toa do mcave (Hang Ong) \u0026 tcave (Hang Nam), bat buoc di bo den dung toa do diem luu (\u003c=75 don vi) moi bat Auto, chan dong nham popup BI108 trong F9, bat buoc dung Core xanh BI108 khi xa map (cam chay bo xuyen nhieu map), va fix cac map vung Navisko khong tu dung Core ve thanh xa."
 }
