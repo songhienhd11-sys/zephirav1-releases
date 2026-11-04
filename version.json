@@ -2,9 +2,9 @@
     "version":  "v1.55",
     "buildNumber":  55,
     "versionBadge":  "v1.55 â€¢ Build 55",
-    "releaseDate":  "2026-11-05T03:01:17+07:00",
-    "sha256":  "02a02a488e5e520f081fa6bb6321de43a12d501a75bb93e77e4f8dc819b7fc5b",
-    "sizeBytes":  1787904,
+    "releaseDate":  "2026-11-05T03:15:59+07:00",
+    "sha256":  "936ec20016b90503b751061eb77a0c82cd58d1cc3108662b929e743ff39039e9",
+    "sizeBytes":  1787392,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.50 Build 50: Co che Don Gold da tang Core: (1) Co Core thanh dich -\u003e bay thang; (2) Khong co Core thanh dich nhung co Core thanh khac -\u003e bay qua thanh bat ky do mua Core thanh dich roi bay qua; (3) Khong co Core nao -\u003e mua Core Xanh (BI108) bay sang map ben canh thanh dich (forever-fall-01/fore-1/de-1) roi chay bo ve vi tri Don Gold."
+    "notes":  "v1.55 Build 55: Fix den vi tri bai farm (Map Eve / Torre Sem Fim 4o Andar / Ham nguc) nhung check lai vi tri lien tuc khong bat Auto + Tu dong cuu tab Proxy bi loi This site can\u0027t be reached (chrome-error) vao thang game."
 }
