@@ -1,10 +1,10 @@
 {
-    "version":  "v1.48",
-    "buildNumber":  48,
-    "versionBadge":  "v1.48 â€¢ Build 48",
-    "releaseDate":  "2026-11-04T18:55:29+07:00",
-    "sha256":  "a84bf76b85cacb8e97f36c3512c8945aaed98af74254fa743a396b7c32564793",
-    "sizeBytes":  1753600,
+    "version":  "v1.49",
+    "buildNumber":  49,
+    "versionBadge":  "v1.49 â€¢ Build 49",
+    "releaseDate":  "2026-11-04T21:58:14+07:00",
+    "sha256":  "7b3f99ee28f24c0b4e19b7af3933c90c952ed20a5a4b4816aa538b8610ff1619",
+    "sizeBytes":  1757696,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.48 Build 48: Chuan hoa toa do mcave (Hang Ong) \u0026 tcave (Hang Nam), bat buoc di bo den dung toa do diem luu (\u003c=75 don vi) moi bat Auto, chan dong nham popup BI108 trong F9, bat buoc dung Core xanh BI108 khi xa map (cam chay bo xuyen nhieu map), va fix cac map vung Navisko khong tu dung Core ve thanh xa."
+    "notes":  "v1.49 Build 49: Ho tro keo truot / cuon khu vuc LOGIN FARM \u0026 NHIEM VU NGAY / Don Gold + thanh keo Splitter cho man hinh phan giai nho; Don Gold 1-Click tu dong dong bo Acc Nhan cho toan bo Acc khac, danh dau la don ngay hoac hen gio, bo danh dau la dung; chong che khuat bang Giao dich / Gold trong game."
 }
