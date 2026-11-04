@@ -1,10 +1,10 @@
 {
-    "version":  "v1.49",
-    "buildNumber":  49,
-    "versionBadge":  "v1.49 â€¢ Build 49",
-    "releaseDate":  "2026-11-04T21:58:14+07:00",
-    "sha256":  "7b3f99ee28f24c0b4e19b7af3933c90c952ed20a5a4b4816aa538b8610ff1619",
-    "sizeBytes":  1757696,
+    "version":  "v1.50",
+    "buildNumber":  50,
+    "versionBadge":  "v1.50 â€¢ Build 50",
+    "releaseDate":  "2026-11-04T22:29:23+07:00",
+    "sha256":  "b41ac01fcb723f55b64cb231412ecfc590327eaf1203b4c6ac39dc0d44358d7d",
+    "sizeBytes":  1759744,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.49 Build 49: Ho tro keo truot / cuon khu vuc LOGIN FARM \u0026 NHIEM VU NGAY / Don Gold + thanh keo Splitter cho man hinh phan giai nho; Don Gold 1-Click tu dong dong bo Acc Nhan cho toan bo Acc khac, danh dau la don ngay hoac hen gio, bo danh dau la dung; chong che khuat bang Giao dich / Gold trong game."
+    "notes":  "v1.50 Build 50: Co che Don Gold da tang Core: (1) Co Core thanh dich -\u003e bay thang; (2) Khong co Core thanh dich nhung co Core thanh khac -\u003e bay qua thanh bat ky do mua Core thanh dich roi bay qua; (3) Khong co Core nao -\u003e mua Core Xanh (BI108) bay sang map ben canh thanh dich (forever-fall-01/fore-1/de-1) roi chay bo ve vi tri Don Gold."
 }
