@@ -2,9 +2,9 @@
     "version":  "v1.57",
     "buildNumber":  57,
     "versionBadge":  "v1.57 â€¢ Build 57",
-    "releaseDate":  "2026-11-05T12:36:39+07:00",
-    "sha256":  "21aa36c559a47249bb826cf0c28222f6ac2aa5991ba5d9e6c23dd10871f02d83",
-    "sizeBytes":  1236480,
+    "releaseDate":  "2026-11-05T16:02:33+07:00",
+    "sha256":  "4ea8357bf9cc11550a0f5f8d6da468e3df880a2dc35ce019b3d560a9d88cde5a",
+    "sizeBytes":  1237504,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.57 Build 57 (Ban Khong Ma Hoa): 1) Sua triet de loi dung sat NPC mua mau nhung khong click vao NPC va cu mo cua hang ra lai dong lai (doc toa do 3D .pt-plate.npc-name translate: Xpx Ypx ngay ca khi display:none va loai bo .hud-win[data-win=shopw] khoi blockingPanels trong SanitizeBlockingModalsAsync); 2) Dong bo vi tri 2 chieu (chon Tab 1 -\u003e Dong bo -\u003e Luu vi tri se tu dong ap vi tri cua Tab 1 cho tat ca cac tab dong bo); 3) Sua loi mat ket noi Tab (Offline/STALE_TELEMETRY) do lech dong ho Monotonic Clock trong CloneProbeWithLiveOverlay."
+    "notes":  "v1.57 Build 57 (Ban Khong Ma Hoa): 1) Gom toan bo tien trinh Chrome con (browser, renderer, gpu-process, utility) cua tung Tab vao cum CPU rieng biet cua dung Tab do (Tab 1 -\u003e 0xC, Tab 2 -\u003e 0x30..., chua Core 0 cho Windows/UI, khong phan manh tran lan qua 40 CPU); 2) Cai dat chung ham FPS xuong 60 co tac dung chinh xac tren man hinh 100Hz (khong tu y ep giam FPS duoi 30); 3) Sua loi click truc tiep 3D NPC mua mau khong tu dong dong shop, dong bo vi tri 2 chieu va ket noi 12 tab."
 }
