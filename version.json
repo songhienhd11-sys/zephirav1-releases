@@ -1,10 +1,10 @@
 {
-    "version":  "v1.60",
-    "buildNumber":  60,
-    "versionBadge":  "v1.60 â€¢ Build 60",
-    "releaseDate":  "2026-11-05T18:58:10+07:00",
-    "sha256":  "6406e1cfe1ede50aa83504bb862ea7c250a8350f7265880d621dfa5722667a97",
-    "sizeBytes":  1251328,
+    "version":  "v1.56",
+    "buildNumber":  56,
+    "versionBadge":  "v1.56 â€¢ Build 56",
+    "releaseDate":  "2026-11-05T21:53:22+07:00",
+    "sha256":  "4f91ea057a12638e5b177c12a0e9916a45e8babbfbf6f39c48832a86523d7dcb",
+    "sizeBytes":  1254400,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.60 Build 60: Triet de sua loi man hinh den tren may so 2 (PTM2) va khi mo tab moi: (1) Khong clearTimeout(rafTimerId) lam ngat vong lap setAnimationLoop cua Three.js/PWeb khi day payload CDP; (2) Tu go .lx-veil.black.on va bat .lg-card.on sau 320ms ke ca khi findVisiblePasswordInputs thay input ben trong card opacity:0; (3) Khong bao nham IN_GAME_CANVAS khi #ui dang khoi tao truoc khi .lg mount; (4) Xoa sach Default\\Cache, Code Cache\\js, Code Cache\\wasm, Service Worker\\CacheStorage/ScriptCache va fallback WebGL failIfMajorPerformanceCaveat=false."
+    "notes":  "v1.56 Build 56: Tuong thich 100% Proxy tren Windows 10 1511 (Chrome \u003c= 109 Manifest V2 khong loi world:MAIN, nap san SEED_U/SEED_P 0ms khong phu thuoc HttpListener http.sys, bo qua loi Root CA 2015 --ignore-certificate-errors, tu chuyen huong data:text/html)."
 }
