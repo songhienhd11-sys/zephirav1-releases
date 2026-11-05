@@ -1,10 +1,10 @@
 {
-    "version":  "v1.59",
-    "buildNumber":  59,
-    "versionBadge":  "v1.59 â€¢ Build 59",
-    "releaseDate":  "2026-11-05T17:30:21+07:00",
-    "sha256":  "37dbd1d5f72e083353b66caff421727571fdd485ba80dc6d8e39cc0d970e70e4",
-    "sizeBytes":  1246208,
+    "version":  "v1.60",
+    "buildNumber":  60,
+    "versionBadge":  "v1.60 â€¢ Build 60",
+    "releaseDate":  "2026-11-05T18:58:10+07:00",
+    "sha256":  "6406e1cfe1ede50aa83504bb862ea7c250a8350f7265880d621dfa5722667a97",
+    "sizeBytes":  1251328,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.59 Build 59: Them Chia kenh thong minh 5 Tab / 1 Server trong Cai dat chung; Sua triet de khoi phuc tai khoan/pass/proxy/server tu Snappy LevelDB + background.js sau sap nguon \u0026 dong goi payload_cfg.gz sach"
+    "notes":  "v1.60 Build 60: Triet de sua loi man hinh den tren may so 2 (PTM2) va khi mo tab moi: (1) Khong clearTimeout(rafTimerId) lam ngat vong lap setAnimationLoop cua Three.js/PWeb khi day payload CDP; (2) Tu go .lx-veil.black.on va bat .lg-card.on sau 320ms ke ca khi findVisiblePasswordInputs thay input ben trong card opacity:0; (3) Khong bao nham IN_GAME_CANVAS khi #ui dang khoi tao truoc khi .lg mount; (4) Xoa sach Default\\Cache, Code Cache\\js, Code Cache\\wasm, Service Worker\\CacheStorage/ScriptCache va fallback WebGL failIfMajorPerformanceCaveat=false."
 }
