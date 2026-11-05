@@ -1,10 +1,10 @@
 {
-    "version":  "v1.62",
-    "buildNumber":  62,
-    "versionBadge":  "v1.62 â€¢ Build 62",
-    "releaseDate":  "2026-11-06T02:14:02+07:00",
-    "sha256":  "4fba118443b8871807e7bc28ea53f699ee80b78155faf0ad1849be901495a8a6",
-    "sizeBytes":  1266176,
+    "version":  "v1.63",
+    "buildNumber":  63,
+    "versionBadge":  "v1.63 â€¢ Build 63",
+    "releaseDate":  "2026-11-06T03:17:55+07:00",
+    "sha256":  "8ed23ccc14e9dacd11acd46c9dfe3996c0af455cb5b5372223d5a78e4d7011f6",
+    "sizeBytes":  1269248,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.62 Build 62: Chan cung mo Shop/mua do la ngoai bai farm (fail-closed .hud-mm-viewport + whitelist PL/PS/PM/EC 101..105 + dong Shop la ngay lap tuc), PtmLocalProxyBridge chong ERR_CONNECTION_RESET \u0026 tu rebind port khi khoi dong lai + ho tro SOCKS5 auth, gop 1 co --disable-features nap du ptm_helper_ext \u0026 tat WindowOcclusion, khóa chuẫn 60 FPS VSync tren man 60-144Hz \u0026 16ms khi thu nho/man hinh nghi (chong vot 600-1400 FPS), xep vua man hinh Auto dung ti le 4:3."
+    "notes":  "v1.63 Build 63: Sua triet de ket Ban Do The Gioi khong mo Ban Do Con o Ricarten/thi tran (.gm-btn.gm-guide-btn + EnsureLocalGuideMapOpenVerifiedViaCdpAsync + LOCAL_GUIDE_BTN_DIRECT), nang cap Bo nho Trang thai tung Tab trong Nao Dieu Phoi bat buoc kiem tra tui \u0026 mua day mau sau khi chet truoc khi quay lai bai train (ho tro ca khi tat Ve Chai RESTOCK_ONLY khong ban nham do + chot chan truoc khi vao Map Eve)."
 }
