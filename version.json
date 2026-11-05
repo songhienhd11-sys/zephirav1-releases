@@ -1,10 +1,10 @@
 {
-    "version":  "v1.58",
-    "buildNumber":  58,
-    "versionBadge":  "v1.58 â€¢ Build 58",
-    "releaseDate":  "2026-11-05T16:57:06+07:00",
-    "sha256":  "57469f74448c118547258fb286461ff9254b4ca1a0a25451592b5f9d1ff0aead",
-    "sizeBytes":  1243136,
+    "version":  "v1.59",
+    "buildNumber":  59,
+    "versionBadge":  "v1.59 â€¢ Build 59",
+    "releaseDate":  "2026-11-05T17:30:21+07:00",
+    "sha256":  "37dbd1d5f72e083353b66caff421727571fdd485ba80dc6d8e39cc0d970e70e4",
+    "sizeBytes":  1246208,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.58 Build 58: Tu dong khoi phuc 100% tai khoan, mat khau, server, proxy tu Profile Tab/Backup khi PC sap nguon dot ngot; tu dong don GPUCache/DawnCache/Preferences bi hong gay man hinh den WebGL; sua loi nhan dien trang thai dang nhap khi canvas#gl hien o sanh cho."
+    "notes":  "v1.59 Build 59: Them Chia kenh thong minh 5 Tab / 1 Server trong Cai dat chung; Sua triet de khoi phuc tai khoan/pass/proxy/server tu Snappy LevelDB + background.js sau sap nguon \u0026 dong goi payload_cfg.gz sach"
 }
