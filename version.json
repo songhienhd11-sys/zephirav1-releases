@@ -1,10 +1,10 @@
 {
-    "version":  "v1.57",
-    "buildNumber":  57,
-    "versionBadge":  "v1.57 â€¢ Build 57",
-    "releaseDate":  "2026-11-05T16:02:33+07:00",
-    "sha256":  "4ea8357bf9cc11550a0f5f8d6da468e3df880a2dc35ce019b3d560a9d88cde5a",
-    "sizeBytes":  1237504,
+    "version":  "v1.58",
+    "buildNumber":  58,
+    "versionBadge":  "v1.58 â€¢ Build 58",
+    "releaseDate":  "2026-11-05T16:57:06+07:00",
+    "sha256":  "57469f74448c118547258fb286461ff9254b4ca1a0a25451592b5f9d1ff0aead",
+    "sizeBytes":  1243136,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.57 Build 57 (Ban Khong Ma Hoa): 1) Gom toan bo tien trinh Chrome con (browser, renderer, gpu-process, utility) cua tung Tab vao cum CPU rieng biet cua dung Tab do (Tab 1 -\u003e 0xC, Tab 2 -\u003e 0x30..., chua Core 0 cho Windows/UI, khong phan manh tran lan qua 40 CPU); 2) Cai dat chung ham FPS xuong 60 co tac dung chinh xac tren man hinh 100Hz (khong tu y ep giam FPS duoi 30); 3) Sua loi click truc tiep 3D NPC mua mau khong tu dong dong shop, dong bo vi tri 2 chieu va ket noi 12 tab."
+    "notes":  "v1.58 Build 58: Tu dong khoi phuc 100% tai khoan, mat khau, server, proxy tu Profile Tab/Backup khi PC sap nguon dot ngot; tu dong don GPUCache/DawnCache/Preferences bi hong gay man hinh den WebGL; sua loi nhan dien trang thai dang nhap khi canvas#gl hien o sanh cho."
 }
