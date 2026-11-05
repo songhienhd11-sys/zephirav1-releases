@@ -2,9 +2,9 @@
     "version":  "v1.62",
     "buildNumber":  62,
     "versionBadge":  "v1.62 â€¢ Build 62",
-    "releaseDate":  "2026-11-06T00:59:31+07:00",
-    "sha256":  "10040cd65ce1457868c4754b536605ec7d9a6c42b890cdcfcb19e0b7d840b859",
-    "sizeBytes":  1264640,
+    "releaseDate":  "2026-11-06T02:14:02+07:00",
+    "sha256":  "4fba118443b8871807e7bc28ea53f699ee80b78155faf0ad1849be901495a8a6",
+    "sizeBytes":  1266176,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.62 Build 62: Chan cung mo Shop/mua do la ngoai bai farm (chi cho phep PL/PS/PM/EC 101..105 tai Thanh + dong moi bang Shop la ngay lap tuc), PtmLocalProxyBridge chong ERR_CONNECTION_RESET tren PC Proxy (Basic Auth goi dau + tu retry + fallback SOCKS5 + chong lo IP 502), giam do tre mo tab hop ly, muot 60 FPS khong bop ngam (kể cả Win 10 1511), xep vua man hinh Auto dung ti le 4:3 khong bien dang, va giu Auto/Map Eve chinh xac khi thu nho hoac man hinh nghi."
+    "notes":  "v1.62 Build 62: Chan cung mo Shop/mua do la ngoai bai farm (fail-closed .hud-mm-viewport + whitelist PL/PS/PM/EC 101..105 + dong Shop la ngay lap tuc), PtmLocalProxyBridge chong ERR_CONNECTION_RESET \u0026 tu rebind port khi khoi dong lai + ho tro SOCKS5 auth, gop 1 co --disable-features nap du ptm_helper_ext \u0026 tat WindowOcclusion, khóa chuẫn 60 FPS VSync tren man 60-144Hz \u0026 16ms khi thu nho/man hinh nghi (chong vot 600-1400 FPS), xep vua man hinh Auto dung ti le 4:3."
 }
