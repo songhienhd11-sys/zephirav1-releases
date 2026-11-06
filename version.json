@@ -1,10 +1,10 @@
 {
-    "version":  "v1.65",
-    "buildNumber":  65,
-    "versionBadge":  "v1.65 â€¢ Build 65",
-    "releaseDate":  "2026-11-06T11:09:46+07:00",
-    "sha256":  "42ec0d19c9699057c2b06aabb95eb1eb1bcd6e81243b12066af0758980666e0b",
-    "sizeBytes":  1277952,
+    "version":  "v1.66",
+    "buildNumber":  66,
+    "versionBadge":  "v1.66 â€¢ Build 66",
+    "releaseDate":  "2026-11-06T13:05:37+07:00",
+    "sha256":  "a6b364111e2573042f6cc767485c97d60dfa9ebefc759e6f8f625d4afa5d3959",
+    "sizeBytes":  1285120,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.65 Build 65: Loai bo 100% tang trung gian C# LocalProxyBridge \u0026 CDP Fetch.enable cho Proxy HTTP/HTTPS (Chrome C++ ket noi thang Zero-Hop toc do cao nhat, khac phuc triet de loi Proxy cham \u0026 TCP Reset 10054) + Them chuc nang Tu dong xoa Aging Stone (BI110), Copper Ore (BI111), Rebirth Scroll (BI104) vao thung rac."
+    "notes":  "v1.66 Build 66: Them Mat khau Game dung chung All-Tab (ma hoa DPAPI, dien ngay cho toan bo tab hien co \u0026 tu dien Tab moi/Nhap nhanh) + Quan ly Proxy chia nhieu dai Tu Tab N -\u003e Tab M (chi can dien IP:Port khong can User/Pass hoac tu nhan chuoi 4 phan, chi khoi dong lai dung tab doi mang)."
 }
