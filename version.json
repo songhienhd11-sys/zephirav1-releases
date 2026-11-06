@@ -1,10 +1,10 @@
 {
-    "version":  "v1.63",
-    "buildNumber":  63,
-    "versionBadge":  "v1.63 â€¢ Build 63",
-    "releaseDate":  "2026-11-06T03:17:55+07:00",
-    "sha256":  "8ed23ccc14e9dacd11acd46c9dfe3996c0af455cb5b5372223d5a78e4d7011f6",
-    "sizeBytes":  1269248,
+    "version":  "v1.64",
+    "buildNumber":  64,
+    "versionBadge":  "v1.64 â€¢ Build 64",
+    "releaseDate":  "2026-11-06T09:40:53+07:00",
+    "sha256":  "26b6f096ca130c7340290210b090229697fff9b054337f559980dc929ccdf7ff",
+    "sizeBytes":  1271296,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.63 Build 63: Sua triet de ket Ban Do The Gioi khong mo Ban Do Con o Ricarten/thi tran (.gm-btn.gm-guide-btn + EnsureLocalGuideMapOpenVerifiedViaCdpAsync + LOCAL_GUIDE_BTN_DIRECT), nang cap Bo nho Trang thai tung Tab trong Nao Dieu Phoi bat buoc kiem tra tui \u0026 mua day mau sau khi chet truoc khi quay lai bai train (ho tro ca khi tat Ve Chai RESTOCK_ONLY khong ban nham do + chot chan truoc khi vao Map Eve)."
+    "notes":  "v1.64 Build 64: Sua triet de loi them/doi Proxy bi trang man hinh (Hot-swap PtmLocalProxyBridge tai cho giu nguyen cong + SO_REUSEADDR, chan ket data:text/html \u0026 about:blank, chong treo PumpStreamsBidirectional/LF-header, phu nen toi #0b0f19 kem chan doan chinh xac HTTP 407/403/Timeout thay vi trang loe) \u0026 Khoa cung Cong Thuc Vang chia cum 2 luong CPU + luoi ty le 4:3 giu muot 60 FPS."
 }
