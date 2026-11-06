@@ -1,10 +1,10 @@
 {
-    "version":  "v1.68",
-    "buildNumber":  68,
-    "versionBadge":  "v1.68 â€¢ Build 68",
-    "releaseDate":  "2026-11-06T20:08:47+07:00",
-    "sha256":  "514ad563985b572f3a6c96c5253cb3dfe8967ba62a0dbd59d56c5b54537177e9",
-    "sizeBytes":  1306112,
+    "version":  "v1.69",
+    "buildNumber":  69,
+    "versionBadge":  "v1.69 â€¢ Build 69",
+    "releaseDate":  "2026-11-07T01:21:51+07:00",
+    "sha256":  "1b900a5a7d2a1c63b9f00b3519c7c9875f1cbc28e967f903c4c9e2e263c76278",
+    "sizeBytes":  1934336,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.68 Build 68: Sua dut diem Login Proxy User/Pass qua PtmLocalProxyBridge Async IOCP (0 hop thoai trang Sign in HTTP 407 + cuu song Tab cu ngay tai cho) + Khoi phuc 100% do nhe UIX \u0026 Tab chuan v1.63 (0 GDI churn, dirty-row paint, \u003c1KB CDP tick, 4 Tru Cot Vang 60 FPS) + Menu 1-Click Chon / Tu rut ve dung phien ban (v1.63, v1.64...) + Luu nhieu PT doc lap \u0026 Mua 0 binh Stamina."
+    "notes":  "v1.69 Build 69: Sua dut diem mua/nhan Core Xanh BI108 (uu tien ItemDus, o 1x2 doc, xac nhan popup so luong, PT-BR/VN) + Tien sat chinh xac toa do 3D bai luu + Chan tat nham Auto-Hunt in-game \u0026 Khoa cung chong tu bat PvP + Danh thuc Dieu phoi ngay khi chet ve thanh hoac qua map + Khoi tao san cong Proxy 294xx chong mat ket noi Tab 11, 12 sau sap nguon (tu do 5s)."
 }
