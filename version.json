@@ -1,10 +1,10 @@
 {
-    "version":  "v1.64",
-    "buildNumber":  64,
-    "versionBadge":  "v1.64 â€¢ Build 64",
-    "releaseDate":  "2026-11-06T09:40:53+07:00",
-    "sha256":  "26b6f096ca130c7340290210b090229697fff9b054337f559980dc929ccdf7ff",
-    "sizeBytes":  1271296,
+    "version":  "v1.65",
+    "buildNumber":  65,
+    "versionBadge":  "v1.65 â€¢ Build 65",
+    "releaseDate":  "2026-11-06T11:09:46+07:00",
+    "sha256":  "42ec0d19c9699057c2b06aabb95eb1eb1bcd6e81243b12066af0758980666e0b",
+    "sizeBytes":  1277952,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.64 Build 64: Sua triet de loi them/doi Proxy bi trang man hinh (Hot-swap PtmLocalProxyBridge tai cho giu nguyen cong + SO_REUSEADDR, chan ket data:text/html \u0026 about:blank, chong treo PumpStreamsBidirectional/LF-header, phu nen toi #0b0f19 kem chan doan chinh xac HTTP 407/403/Timeout thay vi trang loe) \u0026 Khoa cung Cong Thuc Vang chia cum 2 luong CPU + luoi ty le 4:3 giu muot 60 FPS."
+    "notes":  "v1.65 Build 65: Loai bo 100% tang trung gian C# LocalProxyBridge \u0026 CDP Fetch.enable cho Proxy HTTP/HTTPS (Chrome C++ ket noi thang Zero-Hop toc do cao nhat, khac phuc triet de loi Proxy cham \u0026 TCP Reset 10054) + Them chuc nang Tu dong xoa Aging Stone (BI110), Copper Ore (BI111), Rebirth Scroll (BI104) vao thung rac."
 }
