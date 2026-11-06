@@ -1,10 +1,10 @@
 {
-    "version":  "v1.66",
-    "buildNumber":  66,
-    "versionBadge":  "v1.66 â€¢ Build 66",
-    "releaseDate":  "2026-11-06T13:05:37+07:00",
-    "sha256":  "a6b364111e2573042f6cc767485c97d60dfa9ebefc759e6f8f625d4afa5d3959",
-    "sizeBytes":  1285120,
+    "version":  "v1.67",
+    "buildNumber":  67,
+    "versionBadge":  "v1.67 â€¢ Build 67",
+    "releaseDate":  "2026-11-06T15:21:51+07:00",
+    "sha256":  "44991fc8b2c26a5c73fe5efc95d2866ca8c2883aaa3a1a5dd6762316c680cbe4",
+    "sizeBytes":  1291776,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.66 Build 66: Them Mat khau Game dung chung All-Tab (ma hoa DPAPI, dien ngay cho toan bo tab hien co \u0026 tu dien Tab moi/Nhap nhanh) + Quan ly Proxy chia nhieu dai Tu Tab N -\u003e Tab M (chi can dien IP:Port khong can User/Pass hoac tu nhan chuoi 4 phan, chi khoi dong lai dung tab doi mang)."
+    "notes":  "v1.67 Build 67: Nao dieu phoi tu dong bat/tat bang Nhiem vu (.qt) va Su kien (.evr-panel/.cf-drawer) chong che NPC (ke ca khi timeout) + He thong Proxy Tu Chua Lanh 6 tang (sua triet de loi TCP Reset 10054 do \u003c-loopback\u003e, tu nhan dien SOCKS5 khi chi dien IP:Port, TCP Keep-Alive 25s, tu do mang song lai moi 18s \u0026 khoi phuc chuan 60 FPS)."
 }
