@@ -2,9 +2,9 @@
     "version":  "v1.69",
     "buildNumber":  69,
     "versionBadge":  "v1.69 â€¢ Build 69",
-    "releaseDate":  "2026-11-07T16:33:13+07:00",
-    "sha256":  "a4c43509c99073ca850bf385258c893ff6dde38bf06ac37d8fd9acbc4fed8889",
-    "sizeBytes":  1983488,
+    "releaseDate":  "2026-11-07T17:43:58+07:00",
+    "sha256":  "9ce8503fc5a58c2776623e2f8170db9126c200c1d6eedd18d32a88cfc966d749",
+    "sizeBytes":  1997824,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.69 Build 69 (Full Live Polish): Preset Auto In-Game lan dau (San/Ky nang/Thu thap chuan Tab 1 GIALINHNH dong bo thang RAM closure) + Tuy bien dai Server N-M linh hoat + Chan mo mu F9/ItemDus khi tat Mua Core Xanh + Chong ket Map Ao \u0026 bat Auto tuc thi khi toi bai + Tu can khit UI lech (pt-winpos) \u0026 Tien ich Cua so (Phong to/Thu nho luoi 480x360/Dai 520x138/Minimize/An man hinh pt-afk 60FPS) + Phuc hoi Proxy sau mat dien."
+    "notes":  "v1.69 Build 69: Sua triet de loi den diem khong bat Auto in-game, loi ket mua/nhan Core Xanh BI108 (F9 + Item Dus + dun-1) toan bo tab, va loi danh dau ban do Pillai nhung bi luong Map Eve / ket hoi thoai nhiem vu Namy keo sang Ricarten."
 }
