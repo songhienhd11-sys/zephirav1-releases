@@ -1,10 +1,10 @@
 {
-    "version":  "v1.69",
-    "buildNumber":  69,
-    "versionBadge":  "v1.69 • Build 69",
-    "releaseDate":  "2026-11-08T00:25:47+07:00",
-    "sha256":  "851b361d0280b9de7093c6b4c4efe8416ff5aa376418a85d5ff6af1eb97a109b",
-    "sizeBytes":  2013184,
+    "version":  "v1.7",
+    "buildNumber":  70,
+    "versionBadge":  "v1.7 • Build 70",
+    "releaseDate":  "2026-11-08T01:24:17+07:00",
+    "sha256":  "a7705cbeed7a76c75bf01f9621a9dc52069f1803d93a7ef960f7b7e8ffda0f67",
+    "sizeBytes":  2017280,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.69 Hotfix: Gom Gold tu doi Server sang con nhan + xong tu ve Server cu di farm (khoa hang cho 1-1 khong quay lai), mac dinh Mau 200 / STM 0 (dat 0 khong mua), cong tong mau bu thieu n, sua Core xanh BI108 man nho \u0026 hen gio +them ban dem"
+    "notes":  "v1.7 (Build 70): Sua chay bo tu map ke ben (de-1 / de-3) ve thanh Navisko ban do khi den gio hen: Mo ban do M -\u003e Ban do the gioi -\u003e chon Navisko -\u003e chon NPC Tap hoa Byant -\u003e chay den ban do \u0026 quay lai bai farm; nang quy tac danh phien ban v1.7 -\u003e v1.8 -\u003e v1.9"
 }
