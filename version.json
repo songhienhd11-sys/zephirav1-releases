@@ -2,9 +2,9 @@
     "version":  "v1.69",
     "buildNumber":  69,
     "versionBadge":  "v1.69 • Build 69",
-    "releaseDate":  "2026-11-07T20:54:10+07:00",
-    "sha256":  "9bfc03d2a7ead58edc4a77820c6fa34978f8eb1d57fe1a6bd66dd3a0b90241c3",
-    "sizeBytes":  2002944,
+    "releaseDate":  "2026-11-07T21:37:36+07:00",
+    "sha256":  "d9f59a329ad7cc92ce4ed827e1079c3c0eedbb90ba43c12c223e95aaaed514ee",
+    "sizeBytes":  2002432,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "Fix Navisko timed recall: recall \u0026 sell immediately after +5m night delay (divert Pillai/Ricarten if still night), support Navisko auto-hunt timer day \u0026 night, fallback Town Core if adjacent walk blocked, and prevent combat bag-open miss from resetting timer"
+    "notes":  "Fix phau thuat dung 4 ham: hen gio Navisko ban dem cong +5p 1 lan duy nhat roi ve ban do, sua recall map vung Navisko (de-1..de-4) ca ban ngay lan ban dem, giu nguyen 100% cac ham toi uu"
 }
