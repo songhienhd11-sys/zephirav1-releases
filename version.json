@@ -2,9 +2,9 @@
     "version":  "v1.69",
     "buildNumber":  69,
     "versionBadge":  "v1.69 • Build 69",
-    "releaseDate":  "2026-11-07T18:09:34+07:00",
-    "sha256":  "f475c30759fe7530d2f4c287fa697312ca350cc764d41ae8bebfa5ba79e5fa8f",
-    "sizeBytes":  1997824,
+    "releaseDate":  "2026-11-07T19:18:24+07:00",
+    "sha256":  "ed35e27223f901f42fc355c3c7e1de8a6f91c235d4c48384ca5a1d66b6d61cdd",
+    "sizeBytes":  2001408,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.69 Build 69 (Standardized Release): Sua triet de loi den diem khong bat Auto in-game, loi ket mua/nhan Core Xanh BI108 (F9 + Item Dus + dun-1) toan bo tab, giu cung ban do Pillai (khong bi luong Map Eve / hoi thoai nhiem vu Namy keo sang Ricarten), khoa cung chong tu bat PvP va mo san cau Proxy 294xx sau sap nguon."
+    "notes":  "v1.69 Build 69: Sua triet de bo dem hen gio bay/chay ve thanh ban do, sua loi chay bo ve thanh gan (Pillai/Ricarten/Navisko) \u0026 Map M, them Hang Doi Login Da Tab mac dinh cach nhau 5s."
 }
