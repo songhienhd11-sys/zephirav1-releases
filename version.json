@@ -2,9 +2,9 @@
     "version":  "v1.69",
     "buildNumber":  69,
     "versionBadge":  "v1.69 â€¢ Build 69",
-    "releaseDate":  "2026-11-07T02:50:32+07:00",
-    "sha256":  "93371f6eff9b1d51a43f83cd9bdb21588c1038362f7fda17a7211dcf2fe3bede",
-    "sizeBytes":  1936896,
+    "releaseDate":  "2026-11-07T16:33:13+07:00",
+    "sha256":  "a4c43509c99073ca850bf385258c893ff6dde38bf06ac37d8fd9acbc4fed8889",
+    "sizeBytes":  1983488,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.69 Build 69 (Hotfix Mat Dien Proxy): Fix triet de tab Proxy ket trang trang ERR_TUNNEL_CONNECTION_FAILED / TCP Reset sau mat dien, chong WMI boot-lag dong nham cau 294xx, xoa sach Chrome bad_proxies cache, giu man hinh nen den yen tinh khong bung cua so 800x600 moi 60s khi cho Whitelist IP, va hien thi IP WAN thuc te."
+    "notes":  "v1.69 Build 69 (Full Live Polish): Preset Auto In-Game lan dau (San/Ky nang/Thu thap chuan Tab 1 GIALINHNH dong bo thang RAM closure) + Tuy bien dai Server N-M linh hoat + Chan mo mu F9/ItemDus khi tat Mua Core Xanh + Chong ket Map Ao \u0026 bat Auto tuc thi khi toi bai + Tu can khit UI lech (pt-winpos) \u0026 Tien ich Cua so (Phong to/Thu nho luoi 480x360/Dai 520x138/Minimize/An man hinh pt-afk 60FPS) + Phuc hoi Proxy sau mat dien."
 }
