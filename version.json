@@ -2,9 +2,9 @@
     "version":  "v1.69",
     "buildNumber":  69,
     "versionBadge":  "v1.69 • Build 69",
-    "releaseDate":  "2026-11-07T21:37:36+07:00",
-    "sha256":  "d9f59a329ad7cc92ce4ed827e1079c3c0eedbb90ba43c12c223e95aaaed514ee",
-    "sizeBytes":  2002432,
+    "releaseDate":  "2026-11-08T00:25:47+07:00",
+    "sha256":  "851b361d0280b9de7093c6b4c4efe8416ff5aa376418a85d5ff6af1eb97a109b",
+    "sizeBytes":  2013184,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "Fix phau thuat dung 4 ham: hen gio Navisko ban dem cong +5p 1 lan duy nhat roi ve ban do, sua recall map vung Navisko (de-1..de-4) ca ban ngay lan ban dem, giu nguyen 100% cac ham toi uu"
+    "notes":  "v1.69 Hotfix: Gom Gold tu doi Server sang con nhan + xong tu ve Server cu di farm (khoa hang cho 1-1 khong quay lai), mac dinh Mau 200 / STM 0 (dat 0 khong mua), cong tong mau bu thieu n, sua Core xanh BI108 man nho \u0026 hen gio +them ban dem"
 }
