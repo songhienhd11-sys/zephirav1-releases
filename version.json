@@ -1,10 +1,10 @@
 {
-    "version":  "v2.7",
-    "buildNumber":  170,
-    "versionBadge":  "v2.7 • Build 170",
-    "releaseDate":  "2026-11-08T18:44:01+07:00",
-    "sha256":  "4a7b999efa3041aa3a0c3ede9fadfd45d7d04cb99e6795740dc27e207d743468",
-    "sizeBytes":  1404416,
+    "version":  "v2.8",
+    "buildNumber":  180,
+    "versionBadge":  "v2.8 • Build 180",
+    "releaseDate":  "2026-11-08T20:10:47+07:00",
+    "sha256":  "548aa18f4560c5dc459483576f5dd36a8ad7c0431a2ad568d04afcd5df06b513",
+    "sizeBytes":  1412096,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v2.7 (Build 170): Tri dut diem loi cua so xep be va bi Taskbar che khong chon/di dung Temple (Den Nguyen Rua 1/2/3 va Den That Lac) bang kich hoat an toan 2 lop: Lop 1 goi thang ham su kien UIKit trong bo nho V8/DOM (.uk-win mousedown vs .uk-sheet click chong bam dup, chot chan bat bien data-field truoc khi bam Dich chuyen/Xac nhan, chuot phai sub-pixel tren Map M va xuyen lop HUD phu truoc cong 3D) + Lop 2 bao hiem tu mo khung ao 800x600 tuc thoi va chuan hoa Zoom 100%."
+    "notes":  "v2.8: Va dut diem ket dang nhap \u0026 chay Rate-Limit cum IP Proxy chung (.lx-msg.on, tu huy the nho .lr-chip.keep het han, dung ngay lan dau khi sai pass, phanh cum IP 70s/18s) + tri dut diem loi Tab ngu quen o thanh khong check Core / khong ra bai farm"
 }
