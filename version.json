@@ -1,10 +1,10 @@
 {
-    "version":  "v3.5",
-    "buildNumber":  250,
-    "versionBadge":  "v3.5 • Build 250",
-    "releaseDate":  "2026-11-09T03:36:06+07:00",
-    "sha256":  "f81ec6d71b3caee220bbec85713ca797700b1221284db41810a0f0473f5eec15",
-    "sizeBytes":  1441280,
+    "version":  "v3.6",
+    "buildNumber":  260,
+    "versionBadge":  "v3.6 • Build 260",
+    "releaseDate":  "2026-11-09T04:12:28+07:00",
+    "sha256":  "7655a10f996edf2f233b47f55d78aa449f3a872bbe1d4ec0b9ca38c168ccb74b",
+    "sizeBytes":  1442304,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v3.5: Tự động thu gọn bảng Tổ đội (bấm biểu tượng 3 hình người màu xanh .hud-rparty-head) ngay sau khi Party xong cho cả Chủ PT \u0026 Thành viên để đỡ vướng màn hình — giữ gọn liên tục không bị tự bung ra lại mỗi 4.5s, kiểm tra định kỳ đồng bộ 0ms không nháy hình trên Chủ PT để tự mời lại nếu rớt người, và tương thích đầy đủ với Tạp Hóa + Gom Gold."
+    "notes":  "v3.6 (Build 260): Chi khi o map quai (STEADY_FARM_ECO) moi tang delay giam sat acc dis (5.5s-7.6s), con khi o Thanh la toan bo cac acc dong loat check tui do, ban rac, mua mau, mua Core ve thanh + Core Xanh BI108 (uu tien mua Core/mau truoc sua do) va bay thang ra map song song tuc thi 0ms khong gian cach giua cac acc, tu thua ke bai farm tu Tab 1 / Chu PT \u0026 go ket khac thanh."
 }
