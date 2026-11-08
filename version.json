@@ -1,10 +1,10 @@
 {
-    "version":  "v3.0",
-    "buildNumber":  200,
-    "versionBadge":  "v3.0 • Build 200",
-    "releaseDate":  "2026-11-08T23:41:44+07:00",
-    "sha256":  "fa49f0306977b3269238653fb76d855a6d9518d40e34056574b7168ad1f30ecb",
-    "sizeBytes":  1425920,
+    "version":  "v3.1",
+    "buildNumber":  210,
+    "versionBadge":  "v3.1 • Build 210",
+    "releaseDate":  "2026-11-09T00:49:23+07:00",
+    "sha256":  "f38aa792149d6f2b7e1fa62ab8f99fdc73b54940fcbee8ba7302db6f4b0e70a5",
+    "sizeBytes":  1434624,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v3.0: Giữ nguyên 100% hiển thị 60 FPS mượt mọi tab + Cân bằng tải CPU luân phiên theo Tab đang mở thực tế (Sticky Least-Loaded Slot Balancer + cửa sổ trượt 4 luồng cùng Socket khi quá tải nhân, không dồn Tab lẻ trùng 1 core, chia 50/50 đa Socket/Group) + Gánh tải sang RAM/VRAM khủng (V8 Heap 1024MB, Semi-Space 32MB, GPU Shader Cache 128MB, giữ nóng WorkingSet RAM toàn cây tiến trình, --use-angle=d3d11 --enable-zero-copy) + Opaque SwapChain alpha:false cho #gl, đóng băng ma trận Mesh cảnh vật tĩnh vào RAM \u0026 khóa rò rỉ shader lighting=classic."
+    "notes":  "v3.1: Khoa cung Mua Core \u0026 Kiem tra lai hanh trang truoc khi bay di farm (4 tang bao ve kep) — (1) Va dut diem loi Shop Tap Hoa tu ban nguoc lai Core ve thanh (EC101/EC102/EC104) khi dung khac thanh ban uu tien va bao ao FinalTownCores \u003e 0; (2) Chot chan Pre-Flight Re-Check bat buoc tai ReturningToFarmSpot \u0026 NavigateToTargetSpotAsync: luon quet kiem tra lai ca 2 tui ngay truoc gio bay, neu thieu Core ve thanh hoac thieu Core Xanh BI108 (map xa/hang dong) lap tuc huy cat canh, tu ra Tap Hoa / F9 mua du Core roi kiem tra lai lan 2 moi duoc bay; (3) Khoa phan cung trong TryUseBlueTeleportCoreToStageViaCdpAsync cam kich hoat BI108 roi thanh khi tong Core ve thanh trong tui bang 0."
 }
