@@ -1,10 +1,10 @@
 {
-    "version":  "v1.9",
-    "buildNumber":  90,
-    "versionBadge":  "v1.9 • Build 90",
-    "releaseDate":  "2026-11-08T09:53:18+07:00",
-    "sha256":  "3074e8a1b5a528a4210922802bd11fdc481d8b10ebbba418f93d371e875459eb",
-    "sizeBytes":  2030080,
+    "version":  "v2.0",
+    "buildNumber":  100,
+    "versionBadge":  "v2.0 • Build 100",
+    "releaseDate":  "2026-11-08T11:03:53+07:00",
+    "sha256":  "4409cee1f557841c146ec7fd405ce6fac2f77b092fe2fc7a82cb40d37c257052",
+    "sizeBytes":  2040832,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.9: Khoa chat chong bat Auto som khi dang chay toi bai luu (ke ca di bo xuyen nhieu map hoac moi qua cong 0,0) va bat Auto-Hunt tuc thi 0ms ngay khi cham dung toa do bai (xoa tre quet quai 2.2s-4.8s, chong nhan nham Dungeon la Thanh an toan STANDBY_IN_TOWN lam nhan vat dung im bi die)"
+    "notes":  "v2.0: Vá dứt điểm cửa sổ hẹp 371x255 không mua/nhận được Core Xanh BI108 (.cf-drawer, F9 Shop, Item Dus, TCW, Tạp Hóa) + Chặn 100% chạy bộ xuyên map từ bản v1.80 + Tối ưu sâu CPU đa tab 12+ tab (60/15 FPS thông minh nhả VSync/GPU, 4 luồng Foreground)"
 }
