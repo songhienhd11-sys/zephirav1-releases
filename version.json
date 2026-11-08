@@ -1,10 +1,10 @@
 {
-    "version":  "v2.1",
-    "buildNumber":  110,
-    "versionBadge":  "v2.1 • Build 110",
-    "releaseDate":  "2026-11-08T11:39:09+07:00",
-    "sha256":  "281a5f7b9d859161e08a9d454bca086c395db35c6fa0ff771b1e6f1e9ca7633b",
-    "sizeBytes":  1384448,
+    "version":  "v2.2",
+    "buildNumber":  120,
+    "versionBadge":  "v2.2 • Build 120",
+    "releaseDate":  "2026-11-08T12:15:25+07:00",
+    "sha256":  "919ee7ebde9320e347ea21878441712ae23cf923374f6652f669c89123106553",
+    "sizeBytes":  1386496,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v2.1: Va dut diem loi F9 mua \u0026 nhan Core Xanh BI108 tren cua so tab nho 371x248 (mo khoa chieu cao 100dvh cua .shop-confirm/.uk-ask-box.msgbox ben trong .shop-panel va .dst-panel, tu cuon \u0026 kiem chung hit-test trung tam nut Xac nhan, bo qua hop .uk-ask an truoc do trong DOM, ho tro mo thang hop xac nhan khong qua .ui-shop-detail) va chuyen han sang bo cai 1-Click KHONG MA HOA"
+    "notes":  "v2.2: Khi Tab 1 chon/luu vi tri bai moi va dong bo sang cac tab con lai, cac tab phu tu dong xep hang 1-1 dung Core ve thanh -\u003e ban rac, sua do, mua mau -\u003e mua/nhan Core Xanh BI108 -\u003e bay ra cung vi tri Tab 1 va bat Auto (khong anh huong cac luong da on dinh)"
 }
