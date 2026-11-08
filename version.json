@@ -1,10 +1,10 @@
 {
-    "version":  "v3.2",
-    "buildNumber":  220,
-    "versionBadge":  "v3.2 • Build 220",
-    "releaseDate":  "2026-11-09T01:35:06+07:00",
-    "sha256":  "ea7e167f2870ba69c5919874a064bbac58f6dc72d04ae827f444181c4b19fd3c",
-    "sizeBytes":  1437184,
+    "version":  "v3.3",
+    "buildNumber":  230,
+    "versionBadge":  "v3.3 • Build 230",
+    "releaseDate":  "2026-11-09T02:12:53+07:00",
+    "sha256":  "f8224b1582cf33485f7b2c325377d9f78f7ce8673737c41b890af36494b54874",
+    "sizeBytes":  1439744,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v3.2 (Build 220): Vá dứt điểm lỗi mở Tạp Hóa không mua đủ 3 Core về thành đã cài đặt \u0026 lỗi kiểm tra hòm đồ xong để hòm đồ mở che màn hình không vào được Tạp Hóa — đồng bộ LiveMinimapStage + nhận diện .hud-mm-title-text/tile thành chống tự đóng Shop sau khi từ dun-1 về thành, giữ phân tầng z-index Shop (9998) vượt hòm đồ (1) và dưới hộp xác nhận (10002) trên khung 424x318, mua bù chuẩn 100% hạn mức VeChaiTargetTownCores, đóng sạch hòm đồ qua EnsureInventoryClosedViaCdpAsync và tự gỡ khóa NavCircuitPaused tại thành."
+    "notes":  "v3.3: Vá dứt điểm lỗi thực tế trên dàn tab xếp nhỏ (Zoom 53% • 424x318 • Tổ đội PT 6 người) mở Tạp Hóa Pillai bị khung avatar PT (.hud-rparty) đè lên ô Core gây lỗi OCCLUDED không mua được 3 Core (EC104), tự chuyển Túi 2 khi Túi 1 đầy, cô lập ô nhập số lượng trong .uk-ask, chờ gói tin server trả về túi và bắt buộc đủ 3/3 Core như cài đặt trước khi bay ra bãi."
 }
