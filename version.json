@@ -1,10 +1,10 @@
 {
-    "version":  "v2.3",
-    "buildNumber":  130,
-    "versionBadge":  "v2.3 • Build 130",
-    "releaseDate":  "2026-11-08T15:08:45+07:00",
-    "sha256":  "b2edf3e1bc60759772b6edfd1f9ac2acc1116cd5b29592d8f025e2dbf461ccc0",
-    "sizeBytes":  1387008,
+    "version":  "v2.4",
+    "buildNumber":  140,
+    "versionBadge":  "v2.4 • Build 140",
+    "releaseDate":  "2026-11-08T16:02:53+07:00",
+    "sha256":  "18900e401dae86dacb996de46571ca8536b57bdd3b08b5e7bce5bfd669d9f746",
+    "sizeBytes":  1390592,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v2.3 (Build 130): Cung co logic Nao Trung Tam \u0026 Hien Phap Uu Tien (dong bo hang doi nang 1-by-1 cho Nhan Qua, heartbeat chong cat nham 180s, mua bu Core Xanh F9 khi Tab 1 doi bai lan 2 giua luc ban do, tu mo khoa Circuit Breaker khi sua cai dat, giu an toan sau Don Vang \u0026 mat mang)"
+    "notes":  "v2.4: Vá dứt điểm lỗi đi nhầm map (Con Đường Gió / lệch tầng Dungeon / Đền Nguyền Rủa) — xóa cuộn goBtn.scrollIntoView làm lệch dòng bấm Core Xanh BI108 trên cửa sổ tab nhỏ, chặn bấm nhầm bossRows[0] trên Map M khi chuyển map không có Boss (như Pillai), đồng bộ bí danh ảnh pilai/pillai/ice-1/ice_2 và tách chuẩn Đền Nguyền Rủa Tầng 1/2/3 (dun-4/dun-5/dun-6)."
 }
