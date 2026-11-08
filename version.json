@@ -1,10 +1,10 @@
 {
-    "version":  "v2.8",
-    "buildNumber":  180,
-    "versionBadge":  "v2.8 • Build 180",
-    "releaseDate":  "2026-11-08T20:10:47+07:00",
-    "sha256":  "548aa18f4560c5dc459483576f5dd36a8ad7c0431a2ad568d04afcd5df06b513",
-    "sizeBytes":  1412096,
+    "version":  "v2.9",
+    "buildNumber":  190,
+    "versionBadge":  "v2.9 • Build 190",
+    "releaseDate":  "2026-11-08T22:20:40+07:00",
+    "sha256":  "68a2f214bc1b0094ed8a7ff2925db4f7ff874c594314d6b6f542efc1b2c0c694",
+    "sizeBytes":  1419776,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v2.8: Va dut diem ket dang nhap \u0026 chay Rate-Limit cum IP Proxy chung (.lx-msg.on, tu huy the nho .lr-chip.keep het han, dung ngay lan dau khi sai pass, phanh cum IP 70s/18s) + tri dut diem loi Tab ngu quen o thanh khong check Core / khong ra bai farm"
+    "notes":  "v2.9: Giữ cứng 60 FPS mượt đều mọi tab (BackgroundTabFps=60, không giảm FPS) + Cắt chi tiết đồ họa ngầm Three.js/CSS ở 60 FPS (đóng băng matrixAutoUpdate=false trên thực thể ẩn, tắt CSS animation/shadow HUD, tắt biển tên người chơi ẩn) + Giảm tải điều phối C#/CDP/Win32 (tự tắt Network.disable khi vào game, nhịp tim nhẹ ~150B lệch pha 5.5s-7.6s, gộp Snapshot OS, không khóa UI, bỏ EmptyWorkingSet trên tab thường) + Tự động tương thích mọi CPU Đơn/Hybrid P+E/Dual NUMA/Multi-Group \u003e64T \u0026 mọi hạng VGA/VRAM DXGI 64-bit."
 }
