@@ -1,10 +1,10 @@
 {
-    "version":  "v2.4",
-    "buildNumber":  140,
-    "versionBadge":  "v2.4 • Build 140",
-    "releaseDate":  "2026-11-08T16:02:53+07:00",
-    "sha256":  "18900e401dae86dacb996de46571ca8536b57bdd3b08b5e7bce5bfd669d9f746",
-    "sizeBytes":  1390592,
+    "version":  "v2.5",
+    "buildNumber":  150,
+    "versionBadge":  "v2.5 • Build 150",
+    "releaseDate":  "2026-11-08T16:25:23+07:00",
+    "sha256":  "ae994031ec31596c5a0148210b37b6e6e2a055cbed078f14672c99d8f1652303",
+    "sizeBytes":  1394176,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v2.4: Vá dứt điểm lỗi đi nhầm map (Con Đường Gió / lệch tầng Dungeon / Đền Nguyền Rủa) — xóa cuộn goBtn.scrollIntoView làm lệch dòng bấm Core Xanh BI108 trên cửa sổ tab nhỏ, chặn bấm nhầm bossRows[0] trên Map M khi chuyển map không có Boss (như Pillai), đồng bộ bí danh ảnh pilai/pillai/ice-1/ice_2 và tách chuẩn Đền Nguyền Rủa Tầng 1/2/3 (dun-4/dun-5/dun-6)."
+    "notes":  "v2.5: Sua dut diem loi mo Core Xanh BI108 ra nhung khong bam Xac nhan duoc — bat chuan hop thoai xac nhan dich chuyen trong .uk-ask-stack / .uk-ask-box.msgbox (khong can the boc .uk-ask), bo qua .uk-ask.hidden ton du tu F9/ItemDus, nang z-index vuot .tcw-panel, chong scale kep tren .uk-win (zoom:0.75) o khung 464x318 / 422x289 / 371x248 va khoa chong vong don UI dong nham hop xac nhan."
 }
