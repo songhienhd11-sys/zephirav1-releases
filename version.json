@@ -1,10 +1,10 @@
 {
-    "version":  "v1.8",
-    "buildNumber":  80,
-    "versionBadge":  "v1.8 • Build 80",
-    "releaseDate":  "2026-11-08T03:31:57+07:00",
-    "sha256":  "b553e723e52f7c6615cdd59fcc088dc31ae553e2982e1c6467b417d17e78f834",
-    "sizeBytes":  2025472,
+    "version":  "v1.9",
+    "buildNumber":  90,
+    "versionBadge":  "v1.9 • Build 90",
+    "releaseDate":  "2026-11-08T09:53:18+07:00",
+    "sha256":  "3074e8a1b5a528a4210922802bd11fdc481d8b10ebbba418f93d371e875459eb",
+    "sizeBytes":  2030080,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v1.8: Bộ đếm hẹn giờ ổn định 100% mọi tab đều về thành (không bỏ qua túi trống, tắt Auto-Hunt trước khi bấm Core), giữ cứng bán đồ Pillai khi chỉ tích Pillai (không bay nhầm Ricarten/Navisko), nhận diện ngay vị trí Tạp Hóa không lặp Map M, và tự chạy xuyên map ra bãi train không đứng kẹt ở thành"
+    "notes":  "v1.9: Khoa chat chong bat Auto som khi dang chay toi bai luu (ke ca di bo xuyen nhieu map hoac moi qua cong 0,0) va bat Auto-Hunt tuc thi 0ms ngay khi cham dung toa do bai (xoa tre quet quai 2.2s-4.8s, chong nhan nham Dungeon la Thanh an toan STANDBY_IN_TOWN lam nhan vat dung im bi die)"
 }
