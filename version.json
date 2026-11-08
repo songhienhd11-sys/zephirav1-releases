@@ -1,10 +1,10 @@
 {
-    "version":  "v3.1",
-    "buildNumber":  210,
-    "versionBadge":  "v3.1 • Build 210",
-    "releaseDate":  "2026-11-09T00:49:23+07:00",
-    "sha256":  "f38aa792149d6f2b7e1fa62ab8f99fdc73b54940fcbee8ba7302db6f4b0e70a5",
-    "sizeBytes":  1434624,
+    "version":  "v3.2",
+    "buildNumber":  220,
+    "versionBadge":  "v3.2 • Build 220",
+    "releaseDate":  "2026-11-09T01:35:06+07:00",
+    "sha256":  "ea7e167f2870ba69c5919874a064bbac58f6dc72d04ae827f444181c4b19fd3c",
+    "sizeBytes":  1437184,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v3.1: Khoa cung Mua Core \u0026 Kiem tra lai hanh trang truoc khi bay di farm (4 tang bao ve kep) — (1) Va dut diem loi Shop Tap Hoa tu ban nguoc lai Core ve thanh (EC101/EC102/EC104) khi dung khac thanh ban uu tien va bao ao FinalTownCores \u003e 0; (2) Chot chan Pre-Flight Re-Check bat buoc tai ReturningToFarmSpot \u0026 NavigateToTargetSpotAsync: luon quet kiem tra lai ca 2 tui ngay truoc gio bay, neu thieu Core ve thanh hoac thieu Core Xanh BI108 (map xa/hang dong) lap tuc huy cat canh, tu ra Tap Hoa / F9 mua du Core roi kiem tra lai lan 2 moi duoc bay; (3) Khoa phan cung trong TryUseBlueTeleportCoreToStageViaCdpAsync cam kich hoat BI108 roi thanh khi tong Core ve thanh trong tui bang 0."
+    "notes":  "v3.2 (Build 220): Vá dứt điểm lỗi mở Tạp Hóa không mua đủ 3 Core về thành đã cài đặt \u0026 lỗi kiểm tra hòm đồ xong để hòm đồ mở che màn hình không vào được Tạp Hóa — đồng bộ LiveMinimapStage + nhận diện .hud-mm-title-text/tile thành chống tự đóng Shop sau khi từ dun-1 về thành, giữ phân tầng z-index Shop (9998) vượt hòm đồ (1) và dưới hộp xác nhận (10002) trên khung 424x318, mua bù chuẩn 100% hạn mức VeChaiTargetTownCores, đóng sạch hòm đồ qua EnsureInventoryClosedViaCdpAsync và tự gỡ khóa NavCircuitPaused tại thành."
 }
