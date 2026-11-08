@@ -1,10 +1,10 @@
 {
-    "version":  "v3.4",
-    "buildNumber":  240,
-    "versionBadge":  "v3.4 • Build 240",
-    "releaseDate":  "2026-11-09T02:34:28+07:00",
-    "sha256":  "5a0db359dc25e9926b95849d8c3b7b8289ab6bbbf276b50cd0c006e81f23da24",
-    "sizeBytes":  1440256,
+    "version":  "v3.5",
+    "buildNumber":  250,
+    "versionBadge":  "v3.5 • Build 250",
+    "releaseDate":  "2026-11-09T03:36:06+07:00",
+    "sha256":  "f81ec6d71b3caee220bbec85713ca797700b1221284db41810a0f0473f5eec15",
+    "sizeBytes":  1441280,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v3.4: Vá dứt điểm lỗi Tạp Hóa trên khung nhỏ 424x318 (Zoom 53% • PT 6 người) — so khớp đúng tâm ô EC104 khoảng cách gần nhất (không nhận nhầm sang ô EC101 cách 9px phía trên ở chốt SHOP SLOT GUARD), không thu nhỏ chồng lần 2 lên .shopw-panel, xuyên thấu .hud-rparty + .pt-pbuffs, tự chuyển Túi 2 khi Túi 1 đầy, đợi gói tin server Singapore tới 1.2s và kiểm tra đủ 3/3 Core trước khi bay đi farm."
+    "notes":  "v3.5: Tự động thu gọn bảng Tổ đội (bấm biểu tượng 3 hình người màu xanh .hud-rparty-head) ngay sau khi Party xong cho cả Chủ PT \u0026 Thành viên để đỡ vướng màn hình — giữ gọn liên tục không bị tự bung ra lại mỗi 4.5s, kiểm tra định kỳ đồng bộ 0ms không nháy hình trên Chủ PT để tự mời lại nếu rớt người, và tương thích đầy đủ với Tạp Hóa + Gom Gold."
 }
