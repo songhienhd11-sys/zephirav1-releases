@@ -1,10 +1,10 @@
 {
-    "version":  "v2.2",
-    "buildNumber":  120,
-    "versionBadge":  "v2.2 • Build 120",
-    "releaseDate":  "2026-11-08T12:15:25+07:00",
-    "sha256":  "919ee7ebde9320e347ea21878441712ae23cf923374f6652f669c89123106553",
-    "sizeBytes":  1386496,
+    "version":  "v2.3",
+    "buildNumber":  130,
+    "versionBadge":  "v2.3 • Build 130",
+    "releaseDate":  "2026-11-08T15:08:45+07:00",
+    "sha256":  "b2edf3e1bc60759772b6edfd1f9ac2acc1116cd5b29592d8f025e2dbf461ccc0",
+    "sizeBytes":  1387008,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v2.2: Khi Tab 1 chon/luu vi tri bai moi va dong bo sang cac tab con lai, cac tab phu tu dong xep hang 1-1 dung Core ve thanh -\u003e ban rac, sua do, mua mau -\u003e mua/nhan Core Xanh BI108 -\u003e bay ra cung vi tri Tab 1 va bat Auto (khong anh huong cac luong da on dinh)"
+    "notes":  "v2.3 (Build 130): Cung co logic Nao Trung Tam \u0026 Hien Phap Uu Tien (dong bo hang doi nang 1-by-1 cho Nhan Qua, heartbeat chong cat nham 180s, mua bu Core Xanh F9 khi Tab 1 doi bai lan 2 giua luc ban do, tu mo khoa Circuit Breaker khi sua cai dat, giu an toan sau Don Vang \u0026 mat mang)"
 }
