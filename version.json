@@ -1,10 +1,10 @@
 {
-    "version":  "v2.9",
-    "buildNumber":  190,
-    "versionBadge":  "v2.9 • Build 190",
-    "releaseDate":  "2026-11-08T22:20:40+07:00",
-    "sha256":  "68a2f214bc1b0094ed8a7ff2925db4f7ff874c594314d6b6f542efc1b2c0c694",
-    "sizeBytes":  1419776,
+    "version":  "v3.0",
+    "buildNumber":  200,
+    "versionBadge":  "v3.0 • Build 200",
+    "releaseDate":  "2026-11-08T23:41:44+07:00",
+    "sha256":  "fa49f0306977b3269238653fb76d855a6d9518d40e34056574b7168ad1f30ecb",
+    "sizeBytes":  1425920,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v2.9: Giữ cứng 60 FPS mượt đều mọi tab (BackgroundTabFps=60, không giảm FPS) + Cắt chi tiết đồ họa ngầm Three.js/CSS ở 60 FPS (đóng băng matrixAutoUpdate=false trên thực thể ẩn, tắt CSS animation/shadow HUD, tắt biển tên người chơi ẩn) + Giảm tải điều phối C#/CDP/Win32 (tự tắt Network.disable khi vào game, nhịp tim nhẹ ~150B lệch pha 5.5s-7.6s, gộp Snapshot OS, không khóa UI, bỏ EmptyWorkingSet trên tab thường) + Tự động tương thích mọi CPU Đơn/Hybrid P+E/Dual NUMA/Multi-Group \u003e64T \u0026 mọi hạng VGA/VRAM DXGI 64-bit."
+    "notes":  "v3.0: Giữ nguyên 100% hiển thị 60 FPS mượt mọi tab + Cân bằng tải CPU luân phiên theo Tab đang mở thực tế (Sticky Least-Loaded Slot Balancer + cửa sổ trượt 4 luồng cùng Socket khi quá tải nhân, không dồn Tab lẻ trùng 1 core, chia 50/50 đa Socket/Group) + Gánh tải sang RAM/VRAM khủng (V8 Heap 1024MB, Semi-Space 32MB, GPU Shader Cache 128MB, giữ nóng WorkingSet RAM toàn cây tiến trình, --use-angle=d3d11 --enable-zero-copy) + Opaque SwapChain alpha:false cho #gl, đóng băng ma trận Mesh cảnh vật tĩnh vào RAM \u0026 khóa rò rỉ shader lighting=classic."
 }
