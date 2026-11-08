@@ -1,10 +1,10 @@
 {
-    "version":  "v2.6",
-    "buildNumber":  160,
-    "versionBadge":  "v2.6 • Build 160",
-    "releaseDate":  "2026-11-08T17:27:56+07:00",
-    "sha256":  "da6942c2979640f02c1cbe964aee2565f3dcf5de21f5fc43a915d10aedc68696",
-    "sizeBytes":  1399296,
+    "version":  "v2.7",
+    "buildNumber":  170,
+    "versionBadge":  "v2.7 • Build 170",
+    "releaseDate":  "2026-11-08T18:44:01+07:00",
+    "sha256":  "4a7b999efa3041aa3a0c3ede9fadfd45d7d04cb99e6795740dc27e207d743468",
+    "sizeBytes":  1404416,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v2.6: Sua dut diem loi Core Xanh BI108 khong bam Dich chuyen khi danh sach .tcw-panel co dong trung Gan day + Tat ca (.tcw-row.on kep \u0026 .tcw-split.open man 464x318 / 371x248, tu keo o tui BI108 vao khung hinh truoc khi chuot phai), sua Tab 11-12 mat ket noi \u0026 khoa tam IP Proxy chia se (tu dong modal rot mang tren canvas + gian cach dang nhap theo tab khi dinh Rate-Limit), va sua dut diem loi tai phien ban GitHub bi 504 Gateway Timeout qua GitHub Releases REST API CDN."
+    "notes":  "v2.7 (Build 170): Tri dut diem loi cua so xep be va bi Taskbar che khong chon/di dung Temple (Den Nguyen Rua 1/2/3 va Den That Lac) bang kich hoat an toan 2 lop: Lop 1 goi thang ham su kien UIKit trong bo nho V8/DOM (.uk-win mousedown vs .uk-sheet click chong bam dup, chot chan bat bien data-field truoc khi bam Dich chuyen/Xac nhan, chuot phai sub-pixel tren Map M va xuyen lop HUD phu truoc cong 3D) + Lop 2 bao hiem tu mo khung ao 800x600 tuc thoi va chuan hoa Zoom 100%."
 }
