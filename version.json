@@ -1,10 +1,10 @@
 {
-    "version":  "v2.5",
-    "buildNumber":  150,
-    "versionBadge":  "v2.5 • Build 150",
-    "releaseDate":  "2026-11-08T16:25:23+07:00",
-    "sha256":  "ae994031ec31596c5a0148210b37b6e6e2a055cbed078f14672c99d8f1652303",
-    "sizeBytes":  1394176,
+    "version":  "v2.6",
+    "buildNumber":  160,
+    "versionBadge":  "v2.6 • Build 160",
+    "releaseDate":  "2026-11-08T17:27:56+07:00",
+    "sha256":  "da6942c2979640f02c1cbe964aee2565f3dcf5de21f5fc43a915d10aedc68696",
+    "sizeBytes":  1399296,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v2.5: Sua dut diem loi mo Core Xanh BI108 ra nhung khong bam Xac nhan duoc — bat chuan hop thoai xac nhan dich chuyen trong .uk-ask-stack / .uk-ask-box.msgbox (khong can the boc .uk-ask), bo qua .uk-ask.hidden ton du tu F9/ItemDus, nang z-index vuot .tcw-panel, chong scale kep tren .uk-win (zoom:0.75) o khung 464x318 / 422x289 / 371x248 va khoa chong vong don UI dong nham hop xac nhan."
+    "notes":  "v2.6: Sua dut diem loi Core Xanh BI108 khong bam Dich chuyen khi danh sach .tcw-panel co dong trung Gan day + Tat ca (.tcw-row.on kep \u0026 .tcw-split.open man 464x318 / 371x248, tu keo o tui BI108 vao khung hinh truoc khi chuot phai), sua Tab 11-12 mat ket noi \u0026 khoa tam IP Proxy chia se (tu dong modal rot mang tren canvas + gian cach dang nhap theo tab khi dinh Rate-Limit), va sua dut diem loi tai phien ban GitHub bi 504 Gateway Timeout qua GitHub Releases REST API CDN."
 }
