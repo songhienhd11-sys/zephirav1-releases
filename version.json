@@ -1,10 +1,10 @@
 {
-    "version":  "v2.0",
-    "buildNumber":  100,
-    "versionBadge":  "v2.0 • Build 100",
-    "releaseDate":  "2026-11-08T11:03:53+07:00",
-    "sha256":  "4409cee1f557841c146ec7fd405ce6fac2f77b092fe2fc7a82cb40d37c257052",
-    "sizeBytes":  2040832,
-    "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK_MA_HOA.exe",
-    "notes":  "v2.0: Vá dứt điểm cửa sổ hẹp 371x255 không mua/nhận được Core Xanh BI108 (.cf-drawer, F9 Shop, Item Dus, TCW, Tạp Hóa) + Chặn 100% chạy bộ xuyên map từ bản v1.80 + Tối ưu sâu CPU đa tab 12+ tab (60/15 FPS thông minh nhả VSync/GPU, 4 luồng Foreground)"
+    "version":  "v2.1",
+    "buildNumber":  110,
+    "versionBadge":  "v2.1 • Build 110",
+    "releaseDate":  "2026-11-08T11:39:09+07:00",
+    "sha256":  "281a5f7b9d859161e08a9d454bca086c395db35c6fa0ff771b1e6f1e9ca7633b",
+    "sizeBytes":  1384448,
+    "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
+    "notes":  "v2.1: Va dut diem loi F9 mua \u0026 nhan Core Xanh BI108 tren cua so tab nho 371x248 (mo khoa chieu cao 100dvh cua .shop-confirm/.uk-ask-box.msgbox ben trong .shop-panel va .dst-panel, tu cuon \u0026 kiem chung hit-test trung tam nut Xac nhan, bo qua hop .uk-ask an truoc do trong DOM, ho tro mo thang hop xac nhan khong qua .ui-shop-detail) va chuyen han sang bo cai 1-Click KHONG MA HOA"
 }
