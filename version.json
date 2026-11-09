@@ -1,10 +1,10 @@
 {
-    "version":  "v3.9",
-    "buildNumber":  290,
-    "versionBadge":  "v3.9 • Build 290",
-    "releaseDate":  "2026-11-09T19:29:37+07:00",
-    "sha256":  "cf2e369db5d418ceacd4d098450aada58927621034bbd56a54787d0097fb3322",
-    "sizeBytes":  1461760,
+    "version":  "v4.0",
+    "buildNumber":  300,
+    "versionBadge":  "v4.0 • Build 300",
+    "releaseDate":  "2026-11-09T20:50:25+07:00",
+    "sha256":  "dd22ad8f1d9be97f15573c7d7356d507c8ae79660be5778babcb2a8b11325341",
+    "sizeBytes":  1477120,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v3.9 (Build 290): Them the KHO ACC canh THONG TIN - Luu danh sach tai khoan da may (.txt/.json 0% DPAPI, AES256 di dong, tu gop chong ghi de, kem Proxy rieng) \u0026 1-Click (+ Len Tab) tu dong dien vao Tab trong hoac tao Tab moi."
+    "notes":  "v4.0 (Build 300): Nao ban do lon tu chon Thanh gan diem farm nhat va mac dinh Dong/Mo Core Xanh vs Chay bo; bac cau bay map ben canh roi chay bo qua khi thieu Core Xanh; uu tien ban do mua mau ngay tai Tap Hoa / Noc ban mau trong map hoac sat canh 1 cong (Lang Ruinen ruin-2, Lang Eura ice_ura) va cong tac 3 noi."
 }
