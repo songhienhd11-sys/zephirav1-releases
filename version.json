@@ -1,10 +1,10 @@
 {
-    "version":  "v4.1",
-    "buildNumber":  310,
-    "versionBadge":  "v4.1 • Build 310",
-    "releaseDate":  "2026-11-09T22:14:31+07:00",
-    "sha256":  "a6a0e41db0d1e9c8859ed8e9d7e24b5cd5f1ba499aff17bdd151ecd7a8e1c72a",
-    "sizeBytes":  1480192,
+    "version":  "v4.2",
+    "buildNumber":  320,
+    "versionBadge":  "v4.2 • Build 320",
+    "releaseDate":  "2026-11-09T23:36:15+07:00",
+    "sha256":  "a67e2f578dfbd7fdef1ebec6a0f97163bc58c3c8dac4f251d805f902c9501537",
+    "sizeBytes":  1486848,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v4.1 (Build 310): Va dut diem 2 loi thuc chien: (1) Map o xa nhung acc khong mo Core Xanh BI108 ma chay xuyen map (khoi phuc z-index .hud-frame cua hom do sau khi mo Shop, xuyen thau .hud-rparty tren tab nho 424x318 Zoom 53%, ho tro endless_4 va tang La Ma I..IV, chan chon Thanh chinh lam relay chay bo 2 map, khoa cung NavigateToTargetSpotAsync va RecallToTownViaCoreOrWalkCdpAsync khong bao gio roi xuong chay bo xuyen map); (2) Den dung vi tri bai farm nhung khong bat Auto-Hunt (dong bo dung sai cham bai 225 units, xoa khoa ton du sau bay Core/Tap hoa tai cho/ngon duoc va xac minh DOM bat Auto 3 nhip)."
+    "notes":  "v4.2 (Build 320): Khoa IP Goc (Strict Proxy Guard + tu khoi dong lai Chrome thieu co proxy), tan toa do bai farm Vogel 25+ tab cung map, bien thien tu nhien nguong tui [111..119] \u0026 so binh mau mua le, va dong bo outerWidth/outerHeight + /api/telemetry/ pass-through."
 }
