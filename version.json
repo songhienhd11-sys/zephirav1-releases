@@ -1,10 +1,10 @@
 {
-    "version":  "v3.8",
-    "buildNumber":  280,
-    "versionBadge":  "v3.8 • Build 280",
-    "releaseDate":  "2026-11-09T18:14:20+07:00",
-    "sha256":  "1df25bae016189e684e496c92539f993d527bde1dd9b87aad722f3f8bf75d382",
-    "sizeBytes":  1446400,
+    "version":  "v3.9",
+    "buildNumber":  290,
+    "versionBadge":  "v3.9 • Build 290",
+    "releaseDate":  "2026-11-09T19:29:37+07:00",
+    "sha256":  "cf2e369db5d418ceacd4d098450aada58927621034bbd56a54787d0097fb3322",
+    "sizeBytes":  1461760,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v3.8: Tu dong xoa Sheltom cap thap duoi Devine (Lucidy OS101 -\u003e Murky OS107) vao thung rac .hud-trash ngoai bai \u0026 tai thanh; khoa cung bao ve tuyet doi tu Devine (OS108), Celesto (OS109), Mirage (OS110), Inferna (OS111)+ tro len khong bao gio xoa/ban nham ke ca o che do Ban sach."
+    "notes":  "v3.9 (Build 290): Them the KHO ACC canh THONG TIN - Luu danh sach tai khoan da may (.txt/.json 0% DPAPI, AES256 di dong, tu gop chong ghi de, kem Proxy rieng) \u0026 1-Click (+ Len Tab) tu dong dien vao Tab trong hoac tao Tab moi."
 }
