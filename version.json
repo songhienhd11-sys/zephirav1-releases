@@ -1,10 +1,10 @@
 {
-    "version":  "v3.6",
-    "buildNumber":  260,
-    "versionBadge":  "v3.6 • Build 260",
-    "releaseDate":  "2026-11-09T04:12:28+07:00",
-    "sha256":  "7655a10f996edf2f233b47f55d78aa449f3a872bbe1d4ec0b9ca38c168ccb74b",
-    "sizeBytes":  1442304,
+    "version":  "v3.7",
+    "buildNumber":  270,
+    "versionBadge":  "v3.7 • Build 270",
+    "releaseDate":  "2026-11-09T12:32:59+07:00",
+    "sha256":  "21f897fda6a5e96ab4994c852b38bdd8752daed7a81572f8159154be74428632",
+    "sizeBytes":  1445376,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v3.6 (Build 260): Chi khi o map quai (STEADY_FARM_ECO) moi tang delay giam sat acc dis (5.5s-7.6s), con khi o Thanh la toan bo cac acc dong loat check tui do, ban rac, mua mau, mua Core ve thanh + Core Xanh BI108 (uu tien mua Core/mau truoc sua do) va bay thang ra map song song tuc thi 0ms khong gian cach giua cac acc, tu thua ke bai farm tu Tab 1 / Chu PT \u0026 go ket khac thanh."
+    "notes":  "v3.7 (Build 270): Dong bo chuan 100% Cai dat Tu dong san In-Game theo Tab 1 / Cai dat chung vao .ah-panel song (Ngung danh de nhat do lootBreak + giay, Uu tien nhat dung spec, Chi Spec he minh + chip Spec, Nhat ca do khong co spec, Nhat do hiem, chu ky ah370_); co lap tuc thi 0 retry khi Tai khoan bi Server khoa (Fazenda vang) bao ve IP chung, tu go ket Mat ket noi voi may chu tren form Login, va gian cach an toan 8.5s cho \u003e=3 tab DIRECT."
 }
