@@ -1,10 +1,10 @@
 {
-    "version":  "v3.7",
-    "buildNumber":  270,
-    "versionBadge":  "v3.7 • Build 270",
-    "releaseDate":  "2026-11-09T12:32:59+07:00",
-    "sha256":  "21f897fda6a5e96ab4994c852b38bdd8752daed7a81572f8159154be74428632",
-    "sizeBytes":  1445376,
+    "version":  "v3.8",
+    "buildNumber":  280,
+    "versionBadge":  "v3.8 • Build 280",
+    "releaseDate":  "2026-11-09T18:14:20+07:00",
+    "sha256":  "1df25bae016189e684e496c92539f993d527bde1dd9b87aad722f3f8bf75d382",
+    "sizeBytes":  1446400,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v3.7 (Build 270): Dong bo chuan 100% Cai dat Tu dong san In-Game theo Tab 1 / Cai dat chung vao .ah-panel song (Ngung danh de nhat do lootBreak + giay, Uu tien nhat dung spec, Chi Spec he minh + chip Spec, Nhat ca do khong co spec, Nhat do hiem, chu ky ah370_); co lap tuc thi 0 retry khi Tai khoan bi Server khoa (Fazenda vang) bao ve IP chung, tu go ket Mat ket noi voi may chu tren form Login, va gian cach an toan 8.5s cho \u003e=3 tab DIRECT."
+    "notes":  "v3.8: Tu dong xoa Sheltom cap thap duoi Devine (Lucidy OS101 -\u003e Murky OS107) vao thung rac .hud-trash ngoai bai \u0026 tai thanh; khoa cung bao ve tuyet doi tu Devine (OS108), Celesto (OS109), Mirage (OS110), Inferna (OS111)+ tro len khong bao gio xoa/ban nham ke ca o che do Ban sach."
 }
