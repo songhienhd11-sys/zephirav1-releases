@@ -1,10 +1,10 @@
 {
-    "version":  "v4.9",
-    "buildNumber":  390,
-    "versionBadge":  "v4.9 • Build 390",
-    "releaseDate":  "2026-11-10T20:53:01+07:00",
-    "sha256":  "568f802315d3ceb9ea09db529c4d1d5ec7e1e57fb852ed7785055336fcc0028b",
-    "sizeBytes":  1512448,
+    "version":  "v5.0",
+    "buildNumber":  400,
+    "versionBadge":  "v5.0 • Build 400",
+    "releaseDate":  "2026-11-10T21:24:59+07:00",
+    "sha256":  "2971886c72080f5ed341d39a0b0c2308a9584fc68a8e2ef851e5e0500593fb64",
+    "sizeBytes":  1513472,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v4.9: (1) Vá dứt điểm lỗi acc chạy đi chạy lại giữa điểm lưu bãi farm và thành dù không có đồ bán; (2) Đứng lệch tự nhiên (20..44u) so với vị trí lưu ban đầu sau mỗi lần bán đồ ở thành quay lại bãi train; (3) Mặc định TẮT tự động áp cấu hình Tab 1 sang các Tab khác khi người dùng không chủ động bấm đồng bộ; (4) Hỗ trợ Mua máu ngẫu nhiên (±8%) + Bộ đếm ngưỡng máu thấp tự động Core về thành mua máu bằng cách quét trực tiếp cả 3 ô để máu trên thanh phím tắt HUD (Slot 1, 2, 3); (5) Giảm tần suất kiểm tra hòm đồ ngoài bãi farm: 2-5 phút đầu chỉ đánh quái thuần túy, sau đó cách 2-4 phút kiểm tra 1 lần."
+    "notes":  "v5.0 (Build 400): Rà soát \u0026 Gia cố toàn diện 6 Lớp Chống Phát Hiện Hộp Đen / Heuristics Máy Chủ (Publisher Anti-Cheat Hardening) — (1) Xóa thuộc tính .prototype trên Function.prototype.toString, Object.keys/getOwnPropertyNames/getOwnPropertySymbols/getOwnPropertyDescriptors, Reflect.ownKeys, các hàm bọc, getter và prototype methods (chuẩn hàm C++ V8 gốc) kèm đồng bộ RTCPeerConnection.prototype.constructor === window.RTCPeerConnection; (2) Vá lỗi toán học trong triggerTrustedClick khiến tọa độ lệch dọc jy luôn cố định bằng -2 (chuyển sang phân phối ngẫu nhiên 2 chiều thực sự [-2..+2]px); (3) Chuẩn hóa biên độ mua máu ngẫu nhiên ComputeNaturalTargetPotions theo đúng tỷ lệ ±8% (né toàn bộ số tròn chia hết cho 10 và 25); (4) Khử hoàn toàn đuôi tròn chẵn giây (.000ms) và trộn biến thiên thời gian thực (Environment.TickCount) cho toàn bộ bộ đếm chờ đêm Navisko, sắp xếp túi đồ, quét sự kiện và nhịp retry kết nối/đóng bảng."
 }
