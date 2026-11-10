@@ -1,10 +1,10 @@
 {
-    "version":  "v5.1",
-    "buildNumber":  410,
-    "versionBadge":  "v5.1 • Build 410",
-    "releaseDate":  "2026-11-10T21:47:03+07:00",
-    "sha256":  "1eb0693c607bb34cdf8acb792dba95207f08efb9064ba00d08bbdf360638550a",
-    "sizeBytes":  1516544,
+    "version":  "v5.2",
+    "buildNumber":  420,
+    "versionBadge":  "v5.2 • Build 420",
+    "releaseDate":  "2026-11-10T23:17:34+07:00",
+    "sha256":  "0dbcd66f033081a628572df4e60c7afc7b9ad58a7f6d3acd42ef1aa2da5d3e6f",
+    "sizeBytes":  1523712,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v5.1: Gia cố Chống Anti-Cheat Cấp Độ Cao Thủ (Master-Level Publisher Anti-Cheat Defense) — (1) Chặn đứng kỹ thuật tạo Iframe sạch (Clean-Realm Iframe Bypass) soi ngược Function.prototype.toString / Object.getOwnPropertySymbols bằng cách đồng bộ tự động lớp tàng hình sang HTMLIFrameElement.prototype.contentWindow; (2) Bọc lọc gói hộp đen gửi ngầm qua kênh WebSocket.prototype.send (giữ nguyên tốc độ gói nhị phân game 0ms, tự động thanh lọc chuỗi JSON chứa ev/vis/errs); (3) Ẩn triệt để dấu vết tài nguyên chrome-extension:// khỏi Performance.prototype.getEntries / getEntriesByType / getEntriesByName và thêm nhiễu vi mô theo từng Tab cho OffscreenCanvasRenderingContext2D.prototype.getImageData; (4) Đổi thứ tự ưu tiên phím tắt mở Bản đồ (DispatchKeyMAsync) và Cửa hàng F9 (DispatchKeyF9Async) sang gửi sự kiện phần cứng CDP (Input.dispatchKeyEvent isTrusted: true) trước tiên; (5) Bổ sung pha góc phương vị riêng theo từng Tab trong ComputePostSellReturnOffset để mỗi acc lệch về một hướng khác nhau sau khi bán đồ."
+    "notes":  "v5.2 (Build 420): 1) Sieu muot 60 FPS WebGL \u0026 Da-Group Dual Xeon CPU Affinity; 2) Ban do \u0026 sua do tai bat ky NPC thuong nhan nao khi khong bat buoc mua mau; 3) Gian nhip check hom do ngau nhien va lech pha \u003e= 14..22s giua cac tab; 4) Fix vuot 65% hom do tai map Ruinen chay ngay ra NPC Ruinen (Ruga/Maron/Kiosk) ban do tai cho."
 }
