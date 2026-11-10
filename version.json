@@ -1,10 +1,10 @@
 {
-    "version":  "v4.5",
-    "buildNumber":  350,
-    "versionBadge":  "v4.5 • Build 350",
-    "releaseDate":  "2026-11-10T12:07:21+07:00",
-    "sha256":  "7f2fe0a01407582a333a1e397169a41e319646b5891fe4a710fb67ab4c0a56fc",
-    "sizeBytes":  1499136,
+    "version":  "v4.6",
+    "buildNumber":  360,
+    "versionBadge":  "v4.6 • Build 360",
+    "releaseDate":  "2026-11-10T14:06:59+07:00",
+    "sha256":  "bd54ea82567c4787575f0ed0f6cc806cfaf9fa8411c763cd6c330cc700890c09",
+    "sizeBytes":  1502208,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v4.5: Gia co toan dien Moi Goc Do Chong Nhan Dien Hop Den (Blob/Request/Uint8Array Telemetry), Chuan Hoa 100% WebIDL Descriptor/Prototype, Chuyen pt.device sang RFC-4122 UUIDv4 (xoa pt-gpu-renderer \u0026 ultra tex_boot), Tat dong bo dam may acctShare=false \u0026 Nhan ban hoa nhip Login/Party/Trade/Stack-Sell"
+    "notes":  "v4.6 (Build 360): Toi uu toan dien hanh vi Auto 8 Acc / 1 PC chuan Nguoi Choi That (Human-Like 8-Tab Optimization) - (1) Loc cum tan diem bai farm chi tinh cac Tab dang bat (Selected=true) va gian deu toan dai ban kinh [28..96u] (Dungeon/Hang) \u0026 [42..132u] (ngoai dong) kem lech goc vi mo cho doi hinh 8 acc; (2) Bo sung quy dao luot chuot cong tu nhien (DispatchHumanizedMouseMoveAsync 1-2 diem uon 38%/78% + nhip dung ngam 18..42ms + nhan giu 28..64ms) va bien thien sinh hoc rieng tung Tab (NextHumanDelayMs) cho toan bo thao tac Tap Hoa/Tui do; (3) Nhan ban hoa di chuyen tim quai \u0026 tiep can diem farm, click lech tam 35%..65% trong To doi/Gom Vang, them nhip nghi chan tai Thanh sau khi dong Tap Hoa (1.85s..4.45s ngoai khoa hang doi) va gian cach dang nhap 8 acc tu nhien (6.25s..10.25s/acc)."
 }
