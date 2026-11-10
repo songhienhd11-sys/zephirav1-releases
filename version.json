@@ -1,10 +1,10 @@
 {
-    "version":  "v5.2",
-    "buildNumber":  420,
-    "versionBadge":  "v5.2 • Build 420",
-    "releaseDate":  "2026-11-10T23:17:34+07:00",
-    "sha256":  "0dbcd66f033081a628572df4e60c7afc7b9ad58a7f6d3acd42ef1aa2da5d3e6f",
-    "sizeBytes":  1523712,
+    "version":  "v5.3",
+    "buildNumber":  430,
+    "versionBadge":  "v5.3 • Build 430",
+    "releaseDate":  "2026-11-11T01:50:38+07:00",
+    "sha256":  "ed0bc656def678e5f6d278989b10dc934d20aa9c0b930a6d98b19d580bd356b7",
+    "sizeBytes":  1527808,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v5.2 (Build 420): 1) Sieu muot 60 FPS WebGL \u0026 Da-Group Dual Xeon CPU Affinity; 2) Ban do \u0026 sua do tai bat ky NPC thuong nhan nao khi khong bat buoc mua mau; 3) Gian nhip check hom do ngau nhien va lech pha \u003e= 14..22s giua cac tab; 4) Fix vuot 65% hom do tai map Ruinen chay ngay ra NPC Ruinen (Ruga/Maron/Kiosk) ban do tai cho."
+    "notes":  "v5.3 (Build 430): Fix triet de loi ket o Tap Hoa khi mua/dung Core Xanh (BI108) do hop thoai .msgbox (bt_ok.png) va ket o Ricarten (Grocery, Namy); ho tro bay tiep suc Core Xanh + chay bo 1-2 cong sang map Ruinen (ruin-2) khi dong bo; chong di nham map dung choi 0 quai \u0026 chong ghi de SavedFarmStage; cap nhat danh sach Server moi."
 }
