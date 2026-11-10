@@ -1,10 +1,10 @@
 {
-    "version":  "v4.2",
-    "buildNumber":  320,
-    "versionBadge":  "v4.2 • Build 320",
-    "releaseDate":  "2026-11-09T23:36:15+07:00",
-    "sha256":  "a67e2f578dfbd7fdef1ebec6a0f97163bc58c3c8dac4f251d805f902c9501537",
-    "sizeBytes":  1486848,
+    "version":  "v4.3",
+    "buildNumber":  330,
+    "versionBadge":  "v4.3 • Build 330",
+    "releaseDate":  "2026-11-10T09:32:28+07:00",
+    "sha256":  "26d15985d43d12f75592e654463b6b0245986769fe4f0a0825a49accc7abd61d",
+    "sizeBytes":  1489920,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v4.2 (Build 320): Khoa IP Goc (Strict Proxy Guard + tu khoi dong lai Chrome thieu co proxy), tan toa do bai farm Vogel 25+ tab cung map, bien thien tu nhien nguong tui [111..119] \u0026 so binh mau mua le, va dong bo outerWidth/outerHeight + /api/telemetry/ pass-through."
+    "notes":  "v4.3 (Build 330): Go bo khoa cung hen gio ve thanh (chi tu ve ban do khi hom do day \u003e80% [111..119]/144 o), xoa so doan tau Navisko ban dem (uu tien thanh mo cua / NPC da ngoai + lech pha 3m15s..10m45s), va tang hinh tuyet doi ham/luong Ve Chai truoc hop den pt.bb.s.* \u0026 /api/telemetry/ (chan Escape mu win-system 0.3s, xoa data-ptm-*)."
 }
