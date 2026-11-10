@@ -1,10 +1,10 @@
 {
-    "version":  "v4.3",
-    "buildNumber":  330,
-    "versionBadge":  "v4.3 • Build 330",
-    "releaseDate":  "2026-11-10T09:32:28+07:00",
-    "sha256":  "26d15985d43d12f75592e654463b6b0245986769fe4f0a0825a49accc7abd61d",
-    "sizeBytes":  1489920,
+    "version":  "v4.4",
+    "buildNumber":  340,
+    "versionBadge":  "v4.4 • Build 340",
+    "releaseDate":  "2026-11-10T10:59:38+07:00",
+    "sha256":  "ee2f1120ac09db5c8fa9016abdde4f71eab180dc413f363e3a6c9c1a8577622c",
+    "sizeBytes":  1492992,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v4.3 (Build 330): Go bo khoa cung hen gio ve thanh (chi tu ve ban do khi hom do day \u003e80% [111..119]/144 o), xoa so doan tau Navisko ban dem (uu tien thanh mo cua / NPC da ngoai + lech pha 3m15s..10m45s), va tang hinh tuyet doi ham/luong Ve Chai truoc hop den pt.bb.s.* \u0026 /api/telemetry/ (chan Escape mu win-system 0.3s, xoa data-ptm-*)."
+    "notes":  "v4.4 (Build 340): Tong ra soat \u0026 va sau 8 lo hong ngam (nang cap nong SHIELD_VER=44 cho ca tab Sel=False, boc [native code] window.WebSocket, chuyen 7 thuoc tinh __ptm* Three.js sang WeakMap, giu nguyen server zephira, loc social/party/autohunt khoi pt.bb.s.*, xoa khoa mu 30 phut \u0026 ping-pong 103..110 o sau ban, bao ve 100% nhung/ngoc/da/sheltom khi tat VeChai, va nhan ban hoa giu chuot/ban do/gom vang)."
 }
