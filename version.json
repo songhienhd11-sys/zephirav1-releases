@@ -1,10 +1,10 @@
 {
-    "version":  "v5.0",
-    "buildNumber":  400,
-    "versionBadge":  "v5.0 • Build 400",
-    "releaseDate":  "2026-11-10T21:24:59+07:00",
-    "sha256":  "2971886c72080f5ed341d39a0b0c2308a9584fc68a8e2ef851e5e0500593fb64",
-    "sizeBytes":  1513472,
+    "version":  "v5.1",
+    "buildNumber":  410,
+    "versionBadge":  "v5.1 • Build 410",
+    "releaseDate":  "2026-11-10T21:47:03+07:00",
+    "sha256":  "1eb0693c607bb34cdf8acb792dba95207f08efb9064ba00d08bbdf360638550a",
+    "sizeBytes":  1516544,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v5.0 (Build 400): Rà soát \u0026 Gia cố toàn diện 6 Lớp Chống Phát Hiện Hộp Đen / Heuristics Máy Chủ (Publisher Anti-Cheat Hardening) — (1) Xóa thuộc tính .prototype trên Function.prototype.toString, Object.keys/getOwnPropertyNames/getOwnPropertySymbols/getOwnPropertyDescriptors, Reflect.ownKeys, các hàm bọc, getter và prototype methods (chuẩn hàm C++ V8 gốc) kèm đồng bộ RTCPeerConnection.prototype.constructor === window.RTCPeerConnection; (2) Vá lỗi toán học trong triggerTrustedClick khiến tọa độ lệch dọc jy luôn cố định bằng -2 (chuyển sang phân phối ngẫu nhiên 2 chiều thực sự [-2..+2]px); (3) Chuẩn hóa biên độ mua máu ngẫu nhiên ComputeNaturalTargetPotions theo đúng tỷ lệ ±8% (né toàn bộ số tròn chia hết cho 10 và 25); (4) Khử hoàn toàn đuôi tròn chẵn giây (.000ms) và trộn biến thiên thời gian thực (Environment.TickCount) cho toàn bộ bộ đếm chờ đêm Navisko, sắp xếp túi đồ, quét sự kiện và nhịp retry kết nối/đóng bảng."
+    "notes":  "v5.1: Gia cố Chống Anti-Cheat Cấp Độ Cao Thủ (Master-Level Publisher Anti-Cheat Defense) — (1) Chặn đứng kỹ thuật tạo Iframe sạch (Clean-Realm Iframe Bypass) soi ngược Function.prototype.toString / Object.getOwnPropertySymbols bằng cách đồng bộ tự động lớp tàng hình sang HTMLIFrameElement.prototype.contentWindow; (2) Bọc lọc gói hộp đen gửi ngầm qua kênh WebSocket.prototype.send (giữ nguyên tốc độ gói nhị phân game 0ms, tự động thanh lọc chuỗi JSON chứa ev/vis/errs); (3) Ẩn triệt để dấu vết tài nguyên chrome-extension:// khỏi Performance.prototype.getEntries / getEntriesByType / getEntriesByName và thêm nhiễu vi mô theo từng Tab cho OffscreenCanvasRenderingContext2D.prototype.getImageData; (4) Đổi thứ tự ưu tiên phím tắt mở Bản đồ (DispatchKeyMAsync) và Cửa hàng F9 (DispatchKeyF9Async) sang gửi sự kiện phần cứng CDP (Input.dispatchKeyEvent isTrusted: true) trước tiên; (5) Bổ sung pha góc phương vị riêng theo từng Tab trong ComputePostSellReturnOffset để mỗi acc lệch về một hướng khác nhau sau khi bán đồ."
 }
