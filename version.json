@@ -1,10 +1,10 @@
 {
-    "version":  "v4.4",
-    "buildNumber":  340,
-    "versionBadge":  "v4.4 • Build 340",
-    "releaseDate":  "2026-11-10T10:59:38+07:00",
-    "sha256":  "ee2f1120ac09db5c8fa9016abdde4f71eab180dc413f363e3a6c9c1a8577622c",
-    "sizeBytes":  1492992,
+    "version":  "v4.5",
+    "buildNumber":  350,
+    "versionBadge":  "v4.5 • Build 350",
+    "releaseDate":  "2026-11-10T12:07:21+07:00",
+    "sha256":  "7f2fe0a01407582a333a1e397169a41e319646b5891fe4a710fb67ab4c0a56fc",
+    "sizeBytes":  1499136,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v4.4 (Build 340): Tong ra soat \u0026 va sau 8 lo hong ngam (nang cap nong SHIELD_VER=44 cho ca tab Sel=False, boc [native code] window.WebSocket, chuyen 7 thuoc tinh __ptm* Three.js sang WeakMap, giu nguyen server zephira, loc social/party/autohunt khoi pt.bb.s.*, xoa khoa mu 30 phut \u0026 ping-pong 103..110 o sau ban, bao ve 100% nhung/ngoc/da/sheltom khi tat VeChai, va nhan ban hoa giu chuot/ban do/gom vang)."
+    "notes":  "v4.5: Gia co toan dien Moi Goc Do Chong Nhan Dien Hop Den (Blob/Request/Uint8Array Telemetry), Chuan Hoa 100% WebIDL Descriptor/Prototype, Chuyen pt.device sang RFC-4122 UUIDv4 (xoa pt-gpu-renderer \u0026 ultra tex_boot), Tat dong bo dam may acctShare=false \u0026 Nhan ban hoa nhip Login/Party/Trade/Stack-Sell"
 }
