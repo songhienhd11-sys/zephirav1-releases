@@ -1,10 +1,10 @@
 {
-    "version":  "v4.7",
-    "buildNumber":  370,
-    "versionBadge":  "v4.7 • Build 370",
-    "releaseDate":  "2026-11-10T16:00:38+07:00",
-    "sha256":  "ac2288af71c12e808528ea023ac88f067efa46274033bbe9928d1944682462f6",
-    "sizeBytes":  1503744,
+    "version":  "v4.8",
+    "buildNumber":  380,
+    "versionBadge":  "v4.8 • Build 380",
+    "releaseDate":  "2026-11-10T18:13:10+07:00",
+    "sha256":  "ea334b608c00973346de5f90d87a2a1e3a752fbe940848dde9aa6d3015540735",
+    "sizeBytes":  1507840,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v4.7: (1) Tối ưu tốc độ chạy đến vị trí bãi farm \u0026 bật Auto-Hunt tức thì không đứng chơi (nhận diện chạm bãi trong dải 68..145u ngay khi tắt đuốc dẫn đường, hướng trực tiếp stepMoveTowardMonsterSpot về tọa độ bãi đã lưu với bán kính bước chạy \u003e= 46px không bấm trùng chân nhân vật, rút ngắn nghỉ sau khi đóng Tạp Hóa xuống 320..800ms và bật Auto-Hunt 0ms ngay khi chạm bãi); (2) Khóa cố định vị trí khung Hòm đồ (.hud-win[data-win=inventory]) chuẩn 100% tại góc dưới-trái (left: 0px; top: 400px) trên từng Tab — triệt tiêu hoàn toàn lỗi hòm đồ thi thoảng nhảy vọt lên đỉnh màn hình (top: 2px / top âm) khi bán đồ chuột phải, mở Core Xanh BI108 hoặc quét túi trên khung xếp lưới 8 tab."
+    "notes":  "v4.8 (Build 380): Bo quet thuong bi dong chuyen sang quet dong loat khi bam tay; tuy chinh % tui day ve ban do (50-95%); random nhip thao tac kiem tra hom do; muc Ve chai chi de lai Ban sach; random mua ca 3 loai Core (Pil/Ric/Nav), ban ngay random ve 3 thanh, troi toi chi ve Pillai hoac Ricarten"
 }
