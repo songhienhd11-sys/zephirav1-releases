@@ -1,10 +1,10 @@
 {
-    "version":  "v5.6",
-    "buildNumber":  460,
-    "versionBadge":  "v5.6 • Build 460",
-    "releaseDate":  "2026-11-11T11:16:55+07:00",
-    "sha256":  "944b8ec9d6300417463efe4911504de1ea008817f5571c4ae323049e30370cf2",
-    "sizeBytes":  1542656,
+    "version":  "v5.7",
+    "buildNumber":  470,
+    "versionBadge":  "v5.7 • Build 470",
+    "releaseDate":  "2026-11-11T13:08:41+07:00",
+    "sha256":  "fc022532ceb62acbbaed923789b4c1411503824c12267d54a55f3bd6f3492431",
+    "sizeBytes":  1549824,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v5.6 (Build 460): (1) Chuan hoa luong bay Core Xanh (BI108) sang map ke can Ruinen (Lau Dai Ke Lac Loi / Cursed Land / Spirits) -\u003e mo Big Map (.gm-world-btn -\u003e .gm-window) -\u003e chon dung Map Ruinen mo Mini-Map Ruinen -\u003e click thang vao Diem Luu (Saved Spot) chay bo sang bai \u0026 bat Auto [A] dung 1 lan; (2) Diet tan goc loi bay sang Spirits roi phu nguoc ve Navisko/Pillai mua Core lap lai; (3) Dong bo vi tri thong minh cho cac acc o gan (tren cung map hoac map ke can 1 cong tu chay bo sang thang diem luu, khong phu mu ve thanh)."
+    "notes":  "v5.7: (1) Tri dut diem loi Che do UIX Tuy Bien (hud-wm / pt-winpos) lam Hom do troi trai/phai, cao/thap hoac khong co gian theo thu phong cua so Tab (khoa overflow:clip + scroll 0,0 tren .hud-layer, don sach offset keo tha win-inventory/translate/data-wm-placed, ep autoFit=true/hudScale=100/4:3 va co gian muot 7 khung .hud-frame theo min(vw/800, vh/600) ke ca \u003c400x300 tren ca Tab Auto \u0026 HandsOff); (2) Tri dut diem giat lag \u0026 don ep vao 1 loi/luong - can bang tai xoay vong da nhan/da CPU (Dual Xeon 80 luong), quet ghim 100% luong con renderer/gpu-process qua GetThreadGroupAffinity + SetThreadGroupAffinity va mo rong cum nhan vat ly doc lap khong chong lap (len toi 4 nhan vat ly = 8 luong rieng/tab, giu nguyen Core 0 cho Windows)."
 }
