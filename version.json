@@ -1,10 +1,10 @@
 {
-    "version":  "v5.7",
-    "buildNumber":  470,
-    "versionBadge":  "v5.7 • Build 470",
-    "releaseDate":  "2026-11-11T13:08:41+07:00",
-    "sha256":  "fc022532ceb62acbbaed923789b4c1411503824c12267d54a55f3bd6f3492431",
-    "sizeBytes":  1549824,
+    "version":  "v5.8",
+    "buildNumber":  480,
+    "versionBadge":  "v5.8 • Build 480",
+    "releaseDate":  "2026-11-11T19:14:52+07:00",
+    "sha256":  "fff338aa35af5c4b19d11cbdaa8ab8aa8aeabc07694b5ce0c66712457fcda280",
+    "sizeBytes":  1566208,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v5.7: (1) Tri dut diem loi Che do UIX Tuy Bien (hud-wm / pt-winpos) lam Hom do troi trai/phai, cao/thap hoac khong co gian theo thu phong cua so Tab (khoa overflow:clip + scroll 0,0 tren .hud-layer, don sach offset keo tha win-inventory/translate/data-wm-placed, ep autoFit=true/hudScale=100/4:3 va co gian muot 7 khung .hud-frame theo min(vw/800, vh/600) ke ca \u003c400x300 tren ca Tab Auto \u0026 HandsOff); (2) Tri dut diem giat lag \u0026 don ep vao 1 loi/luong - can bang tai xoay vong da nhan/da CPU (Dual Xeon 80 luong), quet ghim 100% luong con renderer/gpu-process qua GetThreadGroupAffinity + SetThreadGroupAffinity va mo rong cum nhan vat ly doc lap khong chong lap (len toi 4 nhan vat ly = 8 luong rieng/tab, giu nguyen Core 0 cho Windows)."
+    "notes":  "v5.8: (1) Vong tan vi tri tuong doi gom quai chat \u003c=24u + tu hoi tu dung tam diem luu khi 0 quai \u003e=14s; (2) Mua va nhan Core Xanh BI108 qua F9 + Item Dus chay ngam 100% trong V8/DOM (0 click toa do UIX, mien nhiem tran danh sach); (3) Tri dut diem ket acc tai Tap Hoa Ricarten va Pillai."
 }
