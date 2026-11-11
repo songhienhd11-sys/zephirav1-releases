@@ -1,10 +1,10 @@
 {
-    "version":  "v5.8",
-    "buildNumber":  480,
-    "versionBadge":  "v5.8 • Build 480",
-    "releaseDate":  "2026-11-11T19:14:52+07:00",
-    "sha256":  "fff338aa35af5c4b19d11cbdaa8ab8aa8aeabc07694b5ce0c66712457fcda280",
-    "sizeBytes":  1566208,
+    "version":  "v5.9",
+    "buildNumber":  490,
+    "versionBadge":  "v5.9 • Build 490",
+    "releaseDate":  "2026-11-12T01:13:50+07:00",
+    "sha256":  "ce711fd6cceb7474ae257a1aaf2e2eb48a6b60eb7cebd20142690ccdeb13d100",
+    "sizeBytes":  1580032,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v5.8: (1) Vong tan vi tri tuong doi gom quai chat \u003c=24u + tu hoi tu dung tam diem luu khi 0 quai \u003e=14s; (2) Mua va nhan Core Xanh BI108 qua F9 + Item Dus chay ngam 100% trong V8/DOM (0 click toa do UIX, mien nhiem tran danh sach); (3) Tri dut diem ket acc tai Tap Hoa Ricarten va Pillai."
+    "notes":  "v5.9: (1) Tri dut diem loi dang dung bai farm tu tat Auto In-Game khi 0 quai cho hoi sinh, vua cham bai hoac quet tui; (2) Do chinh xac 2 hom do va Tu dong huy rac it tien theo mat do so o ngay tai bai (mac dinh 1500g moc 6 o, tuy chinh tu do, giu 100% ngoc Sheltom 1 o)."
 }
