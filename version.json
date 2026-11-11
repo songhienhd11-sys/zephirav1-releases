@@ -1,10 +1,10 @@
 {
-    "version":  "v5.5",
-    "buildNumber":  450,
-    "versionBadge":  "v5.5 • Build 450",
-    "releaseDate":  "2026-11-11T04:51:58+07:00",
-    "sha256":  "d3f8e539b899d0dcdc3d2d5596f7aa0dd920746abefb487c3adfc05b9efc3ba9",
-    "sizeBytes":  1537024,
+    "version":  "v5.6",
+    "buildNumber":  460,
+    "versionBadge":  "v5.6 • Build 460",
+    "releaseDate":  "2026-11-11T11:16:55+07:00",
+    "sha256":  "944b8ec9d6300417463efe4911504de1ea008817f5571c4ae323049e30370cf2",
+    "sizeBytes":  1542656,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v5.5 (Build 450): (1) Chạm bãi bật Auto-Hunt [A] đúng 1 lần \u0026 giám sát bật lại tại chỗ không kéo ngược về tọa độ cũ; (2) Vá dứt điểm lỗi bay sang lại bay về \u0026 lạc vào dun-1 khi đi bộ tiếp sức lên Làng Ruinen (ruin-2, hỗ trợ 1-4 cổng ngoài trời); (3) Đọc bị động số ô túi từ DOM ẩn mỗi 2.2s, gỡ lệch transform 256px trên hòm đồ \u0026 mở khóa phù về thành bán hàng ngay khi vượt % đầy túi."
+    "notes":  "v5.6 (Build 460): (1) Chuan hoa luong bay Core Xanh (BI108) sang map ke can Ruinen (Lau Dai Ke Lac Loi / Cursed Land / Spirits) -\u003e mo Big Map (.gm-world-btn -\u003e .gm-window) -\u003e chon dung Map Ruinen mo Mini-Map Ruinen -\u003e click thang vao Diem Luu (Saved Spot) chay bo sang bai \u0026 bat Auto [A] dung 1 lan; (2) Diet tan goc loi bay sang Spirits roi phu nguoc ve Navisko/Pillai mua Core lap lai; (3) Dong bo vi tri thong minh cho cac acc o gan (tren cung map hoac map ke can 1 cong tu chay bo sang thang diem luu, khong phu mu ve thanh)."
 }
