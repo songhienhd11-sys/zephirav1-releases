@@ -1,10 +1,10 @@
 {
-    "version":  "v5.9",
-    "buildNumber":  490,
-    "versionBadge":  "v5.9 • Build 490",
-    "releaseDate":  "2026-11-12T01:13:50+07:00",
-    "sha256":  "ce711fd6cceb7474ae257a1aaf2e2eb48a6b60eb7cebd20142690ccdeb13d100",
-    "sizeBytes":  1580032,
+    "version":  "v6.0",
+    "buildNumber":  500,
+    "versionBadge":  "v6.0 • Build 500",
+    "releaseDate":  "2026-11-12T10:14:54+07:00",
+    "sha256":  "601fb64e9c1613dbbab4a3fb8bdaefd6873b62cf33ead984962d17a270e99266",
+    "sizeBytes":  1588736,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v5.9: (1) Tri dut diem loi dang dung bai farm tu tat Auto In-Game khi 0 quai cho hoi sinh, vua cham bai hoac quet tui; (2) Do chinh xac 2 hom do va Tu dong huy rac it tien theo mat do so o ngay tai bai (mac dinh 1500g moc 6 o, tuy chinh tu do, giu 100% ngoc Sheltom 1 o)."
+    "notes":  "v6.0 (Build 500): Khoi phuc WebGL goc \u0026 Telemetry trung thuc (giu su kien cua so UI hop le + Cloudflare Insights, kep FPS \u003c= fmax); sua requestAnimationFrame/cancelAnimationFrame tang ID dung chuan (giu nguyen 60 FPS muot); chuyen thao tac mo/dong/doi tui, keo huy rac, ban/sua/mua shop, cot dich chuyen sang 100% CDP Trusted Input kem quy dao chuot cong tu nhien; tu don sach localStorage va du lieu ho so Chrome khi doi tai khoan tren cung tab; gian nhip dang nhap 8.5s cho \u003e=2 tab cung IP Direct (8 acc/1 PC khong can proxy) va bo co --ignore-certificate-errors/--test-type."
 }
