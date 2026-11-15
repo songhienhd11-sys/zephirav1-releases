@@ -2,9 +2,9 @@
     "version":  "v6.2",
     "buildNumber":  520,
     "versionBadge":  "v6.2 • Build 520",
-    "releaseDate":  "2026-11-16T06:45:18+07:00",
-    "sha256":  "1901b3e63d44086e55c219649138a131f7f88547b6a5f18472e8e598886ca84b",
+    "releaseDate":  "2026-11-16T06:48:42+07:00",
+    "sha256":  "2cc36219001b5b6607cdcb10cadb3928adf5d4e6c6fa5984972d29032d8ed486",
     "sizeBytes":  1611776,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v6.2 (Build 520): Go bo hoan toan Map Eve khoi UIX \u0026 Engine, chan SSRF/DNS-QUIC leak \u0026 canh bao Cluster-Ban Proxy, cung co Anti-Cheat SHIELD_VER=62 + Trusted CDP UI/Input + Focus Exclusivity, va toi uu triet de quet tui do du thua + qua tai trong."
+    "notes":  "v6.2: Chuan hoa 100% tin hieu Chuot va Ban phim CDP that nhu 1 nguoi choi da Tab (chuyen Focus tuan tu 1 Tab + phan xa 340-820ms, pointerType=mouse, luot chuot cong tu mep cua so, go tung phim rawKeyDown/char/keyUp, SHIELD_VER=62) + Nhan dien Suc Nang Hanh Trang (Carry Weight) ve ban/don rac + Va che do WALK de-1 ban dem + Tu dong mo lai cua so UIX Auto sau cap nhat nong"
 }
