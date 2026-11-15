@@ -1,10 +1,10 @@
 {
-    "version":  "v6.1",
-    "buildNumber":  510,
-    "versionBadge":  "v6.1 • Build 510",
-    "releaseDate":  "2026-11-16T03:57:57+07:00",
-    "sha256":  "b72d02657d0362be4d17f59027214b672b1c68ccc6affabac52c59a362e7b973",
-    "sizeBytes":  1600000,
+    "version":  "v6.2",
+    "buildNumber":  520,
+    "versionBadge":  "v6.2 • Build 520",
+    "releaseDate":  "2026-11-16T06:45:18+07:00",
+    "sha256":  "1901b3e63d44086e55c219649138a131f7f88547b6a5f18472e8e598886ca84b",
+    "sizeBytes":  1611776,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v6.1: Tinh chinh chong lo dien Auto + The che do di chuyen bai farm (Tu dong / Chi dung Core / Chay bo) + Khu triet de thao tac thua va cam nhac nham do gia tri cao vao thung rac + Uu tien Core Pillai, ve thanh nao ban do thanh do (cam bay BI108 sang Fobit/Navisko), ban ngay tai NPC gan nhat khi du mau/Core + Nao giam sat mo san hom do sau 3-5 phut farm (ton trong khi user tat tay, chi mo lai khi den ky check tui)"
+    "notes":  "v6.2 (Build 520): Go bo hoan toan Map Eve khoi UIX \u0026 Engine, chan SSRF/DNS-QUIC leak \u0026 canh bao Cluster-Ban Proxy, cung co Anti-Cheat SHIELD_VER=62 + Trusted CDP UI/Input + Focus Exclusivity, va toi uu triet de quet tui do du thua + qua tai trong."
 }
