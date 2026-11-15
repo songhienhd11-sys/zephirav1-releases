@@ -1,10 +1,10 @@
 {
-    "version":  "v6.0",
-    "buildNumber":  500,
-    "versionBadge":  "v6.0 • Build 500",
-    "releaseDate":  "2026-11-12T10:14:54+07:00",
-    "sha256":  "601fb64e9c1613dbbab4a3fb8bdaefd6873b62cf33ead984962d17a270e99266",
-    "sizeBytes":  1588736,
+    "version":  "v6.1",
+    "buildNumber":  510,
+    "versionBadge":  "v6.1 • Build 510",
+    "releaseDate":  "2026-11-16T03:57:57+07:00",
+    "sha256":  "b72d02657d0362be4d17f59027214b672b1c68ccc6affabac52c59a362e7b973",
+    "sizeBytes":  1600000,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v6.0 (Build 500): Khoi phuc WebGL goc \u0026 Telemetry trung thuc (giu su kien cua so UI hop le + Cloudflare Insights, kep FPS \u003c= fmax); sua requestAnimationFrame/cancelAnimationFrame tang ID dung chuan (giu nguyen 60 FPS muot); chuyen thao tac mo/dong/doi tui, keo huy rac, ban/sua/mua shop, cot dich chuyen sang 100% CDP Trusted Input kem quy dao chuot cong tu nhien; tu don sach localStorage va du lieu ho so Chrome khi doi tai khoan tren cung tab; gian nhip dang nhap 8.5s cho \u003e=2 tab cung IP Direct (8 acc/1 PC khong can proxy) va bo co --ignore-certificate-errors/--test-type."
+    "notes":  "v6.1: Tinh chinh chong lo dien Auto + The che do di chuyen bai farm (Tu dong / Chi dung Core / Chay bo) + Khu triet de thao tac thua va cam nhac nham do gia tri cao vao thung rac + Uu tien Core Pillai, ve thanh nao ban do thanh do (cam bay BI108 sang Fobit/Navisko), ban ngay tai NPC gan nhat khi du mau/Core + Nao giam sat mo san hom do sau 3-5 phut farm (ton trong khi user tat tay, chi mo lai khi den ky check tui)"
 }
