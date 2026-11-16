@@ -1,10 +1,10 @@
 {
-    "version":  "v6.6",
-    "buildNumber":  560,
-    "versionBadge":  "v6.6 • Build 560",
-    "releaseDate":  "2026-11-16T21:40:04+07:00",
-    "sha256":  "b88b33d35c3eca9d65fa19c41c3f2b895145bcbec0a4b77ea4037bb7ebdd026c",
-    "sizeBytes":  1637888,
+    "version":  "v6.7",
+    "buildNumber":  570,
+    "versionBadge":  "v6.7 • Build 570",
+    "releaseDate":  "2026-11-17T02:52:42+07:00",
+    "sha256":  "9b62e68dad595370b31dbf6e0ec38ad4cc424c8681d39d031df37703ae3d3650",
+    "sizeBytes":  1642496,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v6.6 (Build 560): Khoi phuc toc do pro multi-tab nhu Build 500 + sua dut diem ket ban do tap hoa (HUD frame z-index 20005, pointer-events, bo khoa 90s khi di bo) va giu nguyen toan bo lop chong anti-ban Build 500-550."
+    "notes":  "v6.7 (Build 570): Sua dut diem ket tap hoa Ricarten/Pillai (.gm-tip \u003e10 NPC, .npc-talk, ban kinh 285u, EC101), khoa cung Chi dung Core + nut Core F9 \u0026 chan de-1 chay sang Ruinen, sua keo huy do .hud-trash bi che z-index, sua chay vong tron quanh bai luu va sua loi rut ve ban cu."
 }
