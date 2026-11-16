@@ -1,10 +1,10 @@
 {
-    "version":  "v6.3",
-    "buildNumber":  530,
-    "versionBadge":  "v6.3 • Build 530",
-    "releaseDate":  "2026-11-16T09:35:36+07:00",
-    "sha256":  "b8ab7f328b33d46b70603490aa518acca27198454fc5f191fd94f524131f7250",
-    "sizeBytes":  1627648,
+    "version":  "v6.4",
+    "buildNumber":  540,
+    "versionBadge":  "v6.4 • Build 540",
+    "releaseDate":  "2026-11-16T12:50:29+07:00",
+    "sha256":  "dbcd9fa49949e0e9deab85c7f675b43755f32cac9b398383dc1f64dff0e3da7a",
+    "sizeBytes":  1631744,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v6.3: Them \u0027Bo dong bo\u0027 ngay duoi \u0027Dong bo\u0027 (menu chuot phai \u0026 khung chon tab, tach 2 chieu sach se); khoa phien thao tac nguoi that theo tac vu da tab (BeginHumanTaskSessionAsync 0ms giat focus giua chung); toi uu di chuyen (dong Map M bang click that/KeyM khong Escape, du ten map \u0026 click that WalkSingleAdjacentMapHop, ton trong thanh ban khi Recall); toi uu xoa rac (.hud-trash z-index 9999 \u003e shop, an ghost truoc khi tha, bam Max stack, go khoa o vinh vien 3 phan, doc gia Venda/Ouro/Gold va bo lat Tui 1/2 thua)."
+    "notes":  "v6.4: Khoi phuc 100% hien thi chi so trang bi (.hud-tip DOM \u0026 z-index); sua loi day hom do khong ve thanh ban tu ban 510+ (xoa textContent=\u0027\u0027, chong mu Tui 2 \u0026 khoa nham 140 o); sua che do Chay bo WALK khong bao gio bay EC101 ve Ricarten; sua ket cua hang Ricarten \u0026 chan mua Core Xanh F9 khi chua ban xong do; chuan hoa Core Xanh BI108 chi bay ra bai xa hoac bay map canh thanh khi het Core thuong."
 }
