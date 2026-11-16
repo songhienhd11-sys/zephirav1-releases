@@ -1,10 +1,10 @@
 {
-    "version":  "v6.5",
-    "buildNumber":  550,
-    "versionBadge":  "v6.5 • Build 550",
-    "releaseDate":  "2026-11-16T18:22:52+07:00",
-    "sha256":  "1876b9630325a103784242b57e0e4b4a96e2858b6147262f691c27a9cda609fd",
-    "sizeBytes":  1636864,
+    "version":  "v6.6",
+    "buildNumber":  560,
+    "versionBadge":  "v6.6 • Build 560",
+    "releaseDate":  "2026-11-16T21:40:04+07:00",
+    "sha256":  "b88b33d35c3eca9d65fa19c41c3f2b895145bcbec0a4b77ea4037bb7ebdd026c",
+    "sizeBytes":  1637888,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v6.5 (Build 550): Khoi phuc chuan Ban do Tap Hoa \u0026 Di chuyen roi thanh nhu Build 500 (click that CDP NPC GuideMap + than 3D NPC khi an Aa, khong bo sot do chua ban, go ket PREFLIGHT_CORE_MISSING_SAFE_HOLD khi tat Auto F9 Core Xanh)"
+    "notes":  "v6.6 (Build 560): Khoi phuc toc do pro multi-tab nhu Build 500 + sua dut diem ket ban do tap hoa (HUD frame z-index 20005, pointer-events, bo khoa 90s khi di bo) va giu nguyen toan bo lop chong anti-ban Build 500-550."
 }
