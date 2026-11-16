@@ -1,10 +1,10 @@
 {
-    "version":  "v6.2",
-    "buildNumber":  520,
-    "versionBadge":  "v6.2 • Build 520",
-    "releaseDate":  "2026-11-16T06:48:42+07:00",
-    "sha256":  "2cc36219001b5b6607cdcb10cadb3928adf5d4e6c6fa5984972d29032d8ed486",
-    "sizeBytes":  1611776,
+    "version":  "v6.3",
+    "buildNumber":  530,
+    "versionBadge":  "v6.3 • Build 530",
+    "releaseDate":  "2026-11-16T09:35:36+07:00",
+    "sha256":  "b8ab7f328b33d46b70603490aa518acca27198454fc5f191fd94f524131f7250",
+    "sizeBytes":  1627648,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v6.2: Chuan hoa 100% tin hieu Chuot va Ban phim CDP that nhu 1 nguoi choi da Tab (chuyen Focus tuan tu 1 Tab + phan xa 340-820ms, pointerType=mouse, luot chuot cong tu mep cua so, go tung phim rawKeyDown/char/keyUp, SHIELD_VER=62) + Nhan dien Suc Nang Hanh Trang (Carry Weight) ve ban/don rac + Va che do WALK de-1 ban dem + Tu dong mo lai cua so UIX Auto sau cap nhat nong"
+    "notes":  "v6.3: Them \u0027Bo dong bo\u0027 ngay duoi \u0027Dong bo\u0027 (menu chuot phai \u0026 khung chon tab, tach 2 chieu sach se); khoa phien thao tac nguoi that theo tac vu da tab (BeginHumanTaskSessionAsync 0ms giat focus giua chung); toi uu di chuyen (dong Map M bang click that/KeyM khong Escape, du ten map \u0026 click that WalkSingleAdjacentMapHop, ton trong thanh ban khi Recall); toi uu xoa rac (.hud-trash z-index 9999 \u003e shop, an ghost truoc khi tha, bam Max stack, go khoa o vinh vien 3 phan, doc gia Venda/Ouro/Gold va bo lat Tui 1/2 thua)."
 }
