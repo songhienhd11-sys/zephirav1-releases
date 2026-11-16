@@ -1,10 +1,10 @@
 {
-    "version":  "v6.4",
-    "buildNumber":  540,
-    "versionBadge":  "v6.4 • Build 540",
-    "releaseDate":  "2026-11-16T12:50:29+07:00",
-    "sha256":  "dbcd9fa49949e0e9deab85c7f675b43755f32cac9b398383dc1f64dff0e3da7a",
-    "sizeBytes":  1631744,
+    "version":  "v6.5",
+    "buildNumber":  550,
+    "versionBadge":  "v6.5 • Build 550",
+    "releaseDate":  "2026-11-16T18:22:52+07:00",
+    "sha256":  "1876b9630325a103784242b57e0e4b4a96e2858b6147262f691c27a9cda609fd",
+    "sizeBytes":  1636864,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v6.4: Khoi phuc 100% hien thi chi so trang bi (.hud-tip DOM \u0026 z-index); sua loi day hom do khong ve thanh ban tu ban 510+ (xoa textContent=\u0027\u0027, chong mu Tui 2 \u0026 khoa nham 140 o); sua che do Chay bo WALK khong bao gio bay EC101 ve Ricarten; sua ket cua hang Ricarten \u0026 chan mua Core Xanh F9 khi chua ban xong do; chuan hoa Core Xanh BI108 chi bay ra bai xa hoac bay map canh thanh khi het Core thuong."
+    "notes":  "v6.5 (Build 550): Khoi phuc chuan Ban do Tap Hoa \u0026 Di chuyen roi thanh nhu Build 500 (click that CDP NPC GuideMap + than 3D NPC khi an Aa, khong bo sot do chua ban, go ket PREFLIGHT_CORE_MISSING_SAFE_HOLD khi tat Auto F9 Core Xanh)"
 }
