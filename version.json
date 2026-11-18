@@ -1,10 +1,10 @@
 {
-    "version":  "v7.1",
-    "buildNumber":  610,
-    "versionBadge":  "v7.1 • Build 610",
-    "releaseDate":  "2026-11-18T22:55:07+07:00",
-    "sha256":  "04b1e36520ad391bbb8f0894ad7961478fdf8aef366df782de7ed2281a0c2d91",
-    "sizeBytes":  1647104,
+    "version":  "v7.2",
+    "buildNumber":  620,
+    "versionBadge":  "v7.2 • Build 620",
+    "releaseDate":  "2026-11-18T23:23:17+07:00",
+    "sha256":  "c5f7e02c45880ef33661b3fc2dc13fe47f5c6545f097bad916bcd207eca106e5",
+    "sizeBytes":  1647616,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v7.1: Va sau ra soat v7.0 - (1) To doi: tu go co tam dung PT bi ket, nhan loi moi PT ca khi dang ban, PT ngay trong thanh hoat dong lai, acc chi treo PT van lap PT trong thanh; (2) Mau: khong ve thanh lap khi binh mau o trong tui/khong thay thanh phim tat; (3) Xep tui 50-60%: thu lai khi loi, reset dung moi luot, khong quet lien tuc khi tui day do khoa; (4) Bo qua khung chat khi bat thong bao day tui."
+    "notes":  "v7.2: (1) Tra lai Taskbar/PiP sau khi xep tui 1 lan ngoai bai; (2) Chu PT gui lai danh sach thanh vien dang ban do moi lan dong bo PT; (3) Dong bo nguong mau giam sat thu dong va luong kiem tra tui; (4) Dem o tui thu dong bo qua lop an hud-passlayer."
 }
