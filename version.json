@@ -1,10 +1,10 @@
 {
-    "version":  "v7.2",
-    "buildNumber":  620,
-    "versionBadge":  "v7.2 • Build 620",
-    "releaseDate":  "2026-11-18T23:23:17+07:00",
-    "sha256":  "c5f7e02c45880ef33661b3fc2dc13fe47f5c6545f097bad916bcd207eca106e5",
-    "sizeBytes":  1647616,
+    "version":  "v7.3",
+    "buildNumber":  630,
+    "versionBadge":  "v7.3 • Build 630",
+    "releaseDate":  "2026-11-19T02:40:48+07:00",
+    "sha256":  "7afdade332ad027a44744cf95bcb51d1bac672885a1663d7ed113caa8c723584",
+    "sizeBytes":  1648128,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v7.2: (1) Tra lai Taskbar/PiP sau khi xep tui 1 lan ngoai bai; (2) Chu PT gui lai danh sach thanh vien dang ban do moi lan dong bo PT; (3) Dong bo nguong mau giam sat thu dong va luong kiem tra tui; (4) Dem o tui thu dong bo qua lop an hud-passlayer."
+    "notes":  "v7.3: Dong bo danh sach chon Server chuan theo game pweb.world hien tai (14 Server: Zephira, Atena, Apolo, Hermes, Zeus, Poseidon, Teseu, Ares, Atlas, Artemis, Afrodite, Orion, Hera, Selene) tren Cai dat chung, Cai dat Tab, Doi Server hang loat \u0026 Kho Acc; bo sung Afrodite (Europa) va loai bo 5 server da dong (Odin/Valhala, Cronus, Migal, Midranda, Awell)."
 }
