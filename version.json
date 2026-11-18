@@ -1,10 +1,10 @@
 {
-    "version":  "v6.7",
-    "buildNumber":  570,
-    "versionBadge":  "v6.7 • Build 570",
-    "releaseDate":  "2026-11-17T02:52:42+07:00",
-    "sha256":  "9b62e68dad595370b31dbf6e0ec38ad4cc424c8681d39d031df37703ae3d3650",
-    "sizeBytes":  1642496,
+    "version":  "v6.8",
+    "buildNumber":  580,
+    "versionBadge":  "v6.8 • Build 580",
+    "releaseDate":  "2026-11-18T12:52:21+07:00",
+    "sha256":  "bae51954a60ef2bf9527f428c753faaa9ac72277181951a09dbcd951de50807a",
+    "sizeBytes":  1646080,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v6.7 (Build 570): Sua dut diem ket tap hoa Ricarten/Pillai (.gm-tip \u003e10 NPC, .npc-talk, ban kinh 285u, EC101), khoa cung Chi dung Core + nut Core F9 \u0026 chan de-1 chay sang Ruinen, sua keo huy do .hud-trash bi che z-index, sua chay vong tron quanh bai luu va sua loi rut ve ban cu."
+    "notes":  "v6.8 (Build 580): Khoi phuc mo Tap Hoa \u0026 luong F9/ItemDus chuan Build 500 (khong ket canh NPC, khong bam nham Cho/.pshop, go khoa chuot cheo Tab); chi giam sat thu dong % hom do ngoai bai (bo quet phim V dinh ky \u0026 bo huy do .hud-trash); uu tien tuyet doi dung Core (tu dong nhan dien thanh xa/map xa bat BI108 F9); loc sach hop den win-inventory ngan han, kep fmax=60 \u0026 gian cach login theo IP Proxy."
 }
