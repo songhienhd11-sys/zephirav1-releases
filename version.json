@@ -1,10 +1,10 @@
 {
-    "version":  "v7.0",
-    "buildNumber":  600,
-    "versionBadge":  "v7.0 • Build 600",
-    "releaseDate":  "2026-11-18T22:31:42+07:00",
-    "sha256":  "2afad59a136973c490698487ac31b9f087ea380f17fc088a2d7142cd1231e160",
-    "sizeBytes":  1646080,
+    "version":  "v7.1",
+    "buildNumber":  610,
+    "versionBadge":  "v7.1 • Build 610",
+    "releaseDate":  "2026-11-18T22:55:07+07:00",
+    "sha256":  "04b1e36520ad391bbb8f0894ad7961478fdf8aef366df782de7ed2281a0c2d91",
+    "sizeBytes":  1647104,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v7.0: Khoi phuc ham To doi chuan Build 500 + khoa uu tien Ban do truoc PT (tab dang ban do tam dung PT, Chu PT khong moi thanh vien dang o thanh); xep gon 2 tui 1 lan/luot o moc 50-60% khong huy do + uoc luong lich kiem tra lai; bat thong bao day hom do tren man hinh + dem mau thanh phim tat de Core ve thanh ngay."
+    "notes":  "v7.1: Va sau ra soat v7.0 - (1) To doi: tu go co tam dung PT bi ket, nhan loi moi PT ca khi dang ban, PT ngay trong thanh hoat dong lai, acc chi treo PT van lap PT trong thanh; (2) Mau: khong ve thanh lap khi binh mau o trong tui/khong thay thanh phim tat; (3) Xep tui 50-60%: thu lai khi loi, reset dung moi luot, khong quet lien tuc khi tui day do khoa; (4) Bo qua khung chat khi bat thong bao day tui."
 }
