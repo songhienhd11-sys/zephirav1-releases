@@ -1,10 +1,10 @@
 {
-    "version":  "v6.9",
-    "buildNumber":  590,
-    "versionBadge":  "v6.9 • Build 590",
-    "releaseDate":  "2026-11-18T20:44:47+07:00",
-    "sha256":  "33c06e012ec6b6bce1fd040354694fe58877b704d7fb31ee5e35f0448aaa4b30",
-    "sizeBytes":  1643008,
+    "version":  "v7.0",
+    "buildNumber":  600,
+    "versionBadge":  "v7.0 • Build 600",
+    "releaseDate":  "2026-11-18T22:31:42+07:00",
+    "sha256":  "2afad59a136973c490698487ac31b9f087ea380f17fc088a2d7142cd1231e160",
+    "sizeBytes":  1646080,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v6.9 (Build 590): Khoi phuc Core/Nav/Recall/Tap Hoa chuan Build 500 + dong bo AUTO/CORE/WALK; giu bo huy do, giam sat thu dong % tui, fmax=60 va proxy login pacing."
+    "notes":  "v7.0: Khoi phuc ham To doi chuan Build 500 + khoa uu tien Ban do truoc PT (tab dang ban do tam dung PT, Chu PT khong moi thanh vien dang o thanh); xep gon 2 tui 1 lan/luot o moc 50-60% khong huy do + uoc luong lich kiem tra lai; bat thong bao day hom do tren man hinh + dem mau thanh phim tat de Core ve thanh ngay."
 }
