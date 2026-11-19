@@ -1,10 +1,10 @@
 {
-    "version":  "v7.3",
-    "buildNumber":  630,
-    "versionBadge":  "v7.3 • Build 630",
-    "releaseDate":  "2026-11-19T02:40:48+07:00",
-    "sha256":  "7afdade332ad027a44744cf95bcb51d1bac672885a1663d7ed113caa8c723584",
-    "sizeBytes":  1648128,
+    "version":  "v7.4",
+    "buildNumber":  640,
+    "versionBadge":  "v7.4 • Build 640",
+    "releaseDate":  "2026-11-19T08:12:32+07:00",
+    "sha256":  "9acb97ee39e85d7e5adf82c932f0c746f3cda85a23194bf83926c7fc5b9488bc",
+    "sizeBytes":  1651712,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v7.3: Dong bo danh sach chon Server chuan theo game pweb.world hien tai (14 Server: Zephira, Atena, Apolo, Hermes, Zeus, Poseidon, Teseu, Ares, Atlas, Artemis, Afrodite, Orion, Hera, Selene) tren Cai dat chung, Cai dat Tab, Doi Server hang loat \u0026 Kho Acc; bo sung Afrodite (Europa) va loai bo 5 server da dong (Odin/Valhala, Cronus, Migal, Midranda, Awell)."
+    "notes":  "v7.4 (Build 640): Sua loi UIX Core xanh BI108 (.tcw-panel) qua kho hoac bi Hom do V che khuat nut Dich chuyen (.tcw-go) - fitPanel chuan zoom 0.75, nang .hud-modal-layer, an V 1-2 phat an hom do an toan \u0026 khoi phuc finally."
 }
