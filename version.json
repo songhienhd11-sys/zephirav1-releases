@@ -1,10 +1,10 @@
 {
-    "version":  "v7.4",
-    "buildNumber":  640,
-    "versionBadge":  "v7.4 • Build 640",
-    "releaseDate":  "2026-11-19T08:12:32+07:00",
-    "sha256":  "9acb97ee39e85d7e5adf82c932f0c746f3cda85a23194bf83926c7fc5b9488bc",
-    "sizeBytes":  1651712,
+    "version":  "v7.5",
+    "buildNumber":  650,
+    "versionBadge":  "v7.5 • Build 650",
+    "releaseDate":  "2026-11-20T10:55:17+07:00",
+    "sha256":  "6ca97ebab071790892041563e517656e8f7f7cc4d4309fe80db6ad1d591c2d1f",
+    "sizeBytes":  1653760,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v7.4 (Build 640): Sua loi UIX Core xanh BI108 (.tcw-panel) qua kho hoac bi Hom do V che khuat nut Dich chuyen (.tcw-go) - fitPanel chuan zoom 0.75, nang .hud-modal-layer, an V 1-2 phat an hom do an toan \u0026 khoi phuc finally."
+    "notes":  "v7.5 (Build 650): Sua loi xep tui do 40-50% ngoai bai (va selector .hud-sort-btn tren pweb.world live bi trung .hud-forge-btn.hidden tai left:92px, xac nhan click that \u0026 phan manh Tui 1) va bo han chuc nang xoa do."
 }
