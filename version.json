@@ -1,10 +1,10 @@
 {
-    "version":  "v7.5",
-    "buildNumber":  650,
-    "versionBadge":  "v7.5 • Build 650",
-    "releaseDate":  "2026-11-20T10:55:17+07:00",
-    "sha256":  "6ca97ebab071790892041563e517656e8f7f7cc4d4309fe80db6ad1d591c2d1f",
-    "sizeBytes":  1653760,
+    "version":  "v7.6",
+    "buildNumber":  660,
+    "versionBadge":  "v7.6 • Build 660",
+    "releaseDate":  "2026-11-21T21:51:59+07:00",
+    "sha256":  "874500a820af23783f31265aa8139d1b3f5b9e82224a3bd8638e05fe330fbdf2",
+    "sizeBytes":  1655808,
     "downloadUrl":  "https://github.com/songhienhd11-sys/zephirav1-releases/releases/latest/download/zephirav1_BAN_SETUP_1CLICK.exe",
-    "notes":  "v7.5 (Build 650): Sua loi xep tui do 40-50% ngoai bai (va selector .hud-sort-btn tren pweb.world live bi trung .hud-forge-btn.hidden tai left:92px, xac nhan click that \u0026 phan manh Tui 1) va bo han chuc nang xoa do."
+    "notes":  "v7.6: (1) Sửa lỗi đánh dấu không bán đá Sheltom nhưng vẫn bán ở chế độ Bán sạch (ngừng ghi đè 5 cờ Keep* về false trong FromAppAndTabConfig, đồng bộ ngay ActiveTabVeChaiProtConfig khi tick ở Tab 21, bổ sung chốt bảo vệ Sheltom non-OS/icon/tooltip không đụng Frozen Core); (2) Sửa triệt để lỗi không xếp hòm đồ ngoài bãi \u0026 trong shop (xác minh đóng shop .shopw-panel trước khi xếp, vá lỗi SwitchToBagAsync trả true khi hòm đồ đang đóng, chặn MutationObserver dời hòm đồ trước cú click .hud-sort-btn, thêm kiểm tra elementFromPoint/viewport \u0026 bỏ double jitter trên khung 4:3 thu nhỏ, dùng kết quả thật từ SortBothBagsVerifiedAsync, reset FieldBagsSortedOnceInVisit sau mỗi lượt về thành và bỏ kéo giãn 4.5-6.5 phút khi passive bag = 0)."
 }
